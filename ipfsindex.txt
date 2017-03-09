@@ -1,6 +1,12 @@
+lokalt/
 lokalt/sigr170h/ sigr170h
 lokalt/sigr170ut/ sigr170ut
 lokalt/sigr170ut2/ sigr170ut2
+nå/
+nå/2017/
+nå/2017/01/ sigr170h
+nå/2017/02/ sigr170h
+nå/2017/03/ sigr170h
 
 Oppdatert: 170309
 Opprettet: 170309
