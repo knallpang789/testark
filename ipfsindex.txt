@@ -5,7 +5,7 @@ lokalt/sigr170ut2/* sigr170ut2
 nå/
 nå/2017/
 nå/2017/.01.xxxxxx (sigr170h)
-nå/2017/.02.xxxxxx (sigr170h)
+nå/2017/.02.170310 sigr170h sigr170f
 nå/2017/.03.170309 sigr170h sigr170f
 
 sigr170f opprinnelig ved installasjon:
