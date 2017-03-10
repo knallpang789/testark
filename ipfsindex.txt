@@ -6,7 +6,11 @@ nå/
 nå/2017/
 nå/2017/01/ sigr170h
 nå/2017/02/ sigr170h
-nå/2017/03/ sigr170h
+nå/2017/03/ sigr170h sigr170f
 
-Oppdatert: 170309
+sigr170f opprinnelig ved installasjon:
+QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn
+QmVLDAhCY3X9P2uRudKAryuQFPM5zqA3Yij1dY8FpGbL7T
+
+Oppdatert: 170310
 Opprettet: 170309
