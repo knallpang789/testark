@@ -1,10 +1,10 @@
-lokalt/
-lokalt/sigr170h/* sigr170h
-lokalt/sigr170ut/* sigr170ut
-lokalt/sigr170ut2/* sigr170ut2
-nå/
-nå/2017/
-nå/2017/.01.xxxxxx-plain (sigr170h)
+/lokalt/
+/lokalt/sigr170h/* sigr170h
+/lokalt/sigr170ut/* sigr170ut
+/lokalt/sigr170ut2/* sigr170ut2
+/nå/
+/nå/2017/
+QmdH2Hj9twgmZP2FoUFsLj6aUjPQqQ8HpqM1XgFaJTdVqn /nå/2017/.01.xxxxxx-plain sigr170h
 QmRputZCPuWJ1xWXXSAyS4yPm6GMePVaWwx2rQ5DK6vu1w /nå/2017/.02.170310-plain sigr170h sigr170f
 QmNwR3RrQSBQL75LCmJNbZKyGczSh7iwRTZi25sduqCBUW /nå/2017/.03.170309-plain sigr170h sigr170f
 
