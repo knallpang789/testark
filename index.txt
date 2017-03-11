@@ -26,7 +26,7 @@
 170311    !!! /arkiv/oppskrifter/, box
 170311    !!! /arkiv/videoer/, box
 170311    !!! /arkiv/filmer/, box
-170311    29G /arkiv/filmer/2016-innboks/ferdig/.Girls Season 3-4 S03-S04 720p BluRay x264-REWARD [RiCK].170311, ipfs sigr153h QmaYAeaYQtQcnDe7gJNGvzhEGhk2LwroQktfPttoE1mATZ
+170311    29G /arkiv/filmer/2016-innboks/ferdig/.Girls Season 3-4 S03-S04 720p BluRay x264-REWARD [RiCK].170311, ipfs sigr153h (sigr170f) QmaYAeaYQtQcnDe7gJNGvzhEGhk2LwroQktfPttoE1mATZ
 170311    24G /arkiv/filmer/2016-innboks/ferdig/.In Treatment Season 1.170311, ipfs sigr153h
 170311    23G /arkiv/filmer/2016-innboks/ferdig/.In Treatment Season 2.170311, ipfs sigr153h
 170311    19G /arkiv/filmer/2016-innboks/ferdig/.In Treatment Season 3 Complete 720p.170311, ipfs sigr153h
