@@ -1,0 +1,52 @@
+170311        /arkiv/2014/kvitteringer/, box
+170311  12,0G /arkiv/2014/nytteprogrammer/, box
+170311  27,7M /arkiv/2014/post inn/, box
+170311   6,3K /arkiv/2014/post ut/, box
+170311   3,7M /arkiv/2014/verdipapirer/, box
+170311   1,1M /arkiv/2015/Lage en database for regnskap og budsjett/, box
+170311  72,4G /arkiv/2015/Mobil og IT 150810/, box
+170311 209,1K /arkiv/2015/post inn/, box
+170311   3,6M /arkiv/2015/verdipapirer/, box
+170311   1,1G /arkiv/2017/operativsystemer/, box
+170311 167,8M /arkiv/bilder/2004/, box
+170311   2,8G /arkiv/bilder/2005/, box
+170311 463,9M /arkiv/bilder/2006/, box
+170311   1,5G /arkiv/bilder/2007/, box
+170311 316,2M /arkiv/bilder/2008/, box
+170311   2,2G /arkiv/bilder/2009/, box
+170311 280,6M /arkiv/bilder/2010/, box
+170311   1,2G /arkiv/bilder/2011/, box
+170311  43,0G /arkiv/bilder/2012/, box
+170311 512,2M /arkiv/bilder/2013/, box
+170311  24,1G /arkiv/bilder/2014/, box
+170311  19,2G /arkiv/bilder/2015/, box
+170311  16,2G /arkiv/bilder/2016/, box
+170311 701,7M /arkiv/bilder/skrivebordsbakgrunner/, box
+170311    !!! /arkiv/gamle filer/, box
+170311    !!! /arkiv/oppskrifter/, box
+170311    !!! /arkiv/videoer/, box
+170311    !!! /arkiv/filmer/, box
+170311    29G /arkiv/filmer/2016-innboks/ferdig/.Girls Season 3-4 S03-S04 720p BluRay x264-REWARD [RiCK].170311, ipfs sigr153h
+170311    24G /arkiv/filmer/2016-innboks/ferdig/.In Treatment Season 1.170311, ipfs sigr153h
+170311    23G /arkiv/filmer/2016-innboks/ferdig/.In Treatment Season 2.170311, ipfs sigr153h
+170311    19G /arkiv/filmer/2016-innboks/ferdig/.In Treatment Season 3 Complete 720p.170311, ipfs sigr153h
+170311   1,3G /arkiv/filmer/2016-innboks/ferdig/.Slaves (1969).avi.170311, ipfs sigr153h
+170311    !!! /backup/, box
+170311    !!! /db/, box
+170311    !!! /db/, box
+170311    !!! /deling/, box
+170311    !!! /innboks/, box
+170311    !!! /lokalt/, box
+170309        /lokalt/sigr170f/*, ipfs sigr170f
+170309        /lokalt/sigr170f/170309-ipfs-installasjon/emptyfolder, ipfs sigr170f QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn
+170309        /lokalt/sigr170f/170309-ipfs-installasjon/quickstart, ipfs sigr170f QmVLDAhCY3X9P2uRudKAryuQFPM5zqA3Yij1dY8FpGbL7T
+170307        /lokalt/sigr170h/*, ipfs sigr170h
+170307        /lokalt/sigr170ut/*, ipfs sigr170ut
+170307        /lokalt/sigr170ut2/*, ipfs sigr170ut2
+170311    !!! /nå/, box
+170310        /nå/2017/.01.170310-plain, ipfs sigr170h QmdH2Hj9twgmZP2FoUFsLj6aUjPQqQ8HpqM1XgFaJTdVqn
+170310        /nå/2017/.02.170310-plain, ipfs sigr170h sigr170f QmRputZCPuWJ1xWXXSAyS4yPm6GMePVaWwx2rQ5DK6vu1w
+170309        /nå/2017/.03.170309-plain, ipfs sigr170h sigr170f QmNwR3RrQSBQL75LCmJNbZKyGczSh7iwRTZi25sduqCBUW
+
+Oppdatert: 170311
+Opprettet: 170309
