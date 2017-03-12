@@ -3,6 +3,7 @@ dropbox
 !sigr15xxx 2 fysiske harddisker i stasjonær maskin med ZFS, koblet til sigr153vm1 per 170311
 sigr153ekstern2 Ekstern harddisk, koblet til sigr170f per 170311
 sigr161z 2 fysiske harddisker i stasjonær maskin med ZFS, koblet til sigr170f per 170311
+sigr170f IPFS
 
 
 NESTE HANDLING
