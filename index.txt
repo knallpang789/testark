@@ -193,7 +193,7 @@ NESTE HANDLING
 170311 780,8K /lokalt/sigr152w/, box
 170311    29G /lokalt/sigr153h/nedlastinger/transmission/ferdig/.Girls Season 3-4 S03-S04 720p BluRay x264-REWARD [RiCK].170311, ipfs sigr170f QmaYAeaYQtQcnDe7gJNGvzhEGhk2LwroQktfPttoE1mATZ
 170313    24G /lokalt/sigr153h/nedlastinger/transmission/ferdig/.In Treatment Season 1.170311, ipfs sigr170f QmX3Df1FfNTEAtpYuFmfHVAVgTiDP1dcpcjuSaYEcmL4Tk
-170315    23G /lokalt/sigr153h/nedlastinger/transmission/ferdig/.In Treatment Season 2.170311, ipfs sigr153h QmUY6DAP1GfgXzHjJ4KRqi5qxBUX9Gmd8oF5taHuGix2vP
+170315    23G /lokalt/sigr153h/nedlastinger/transmission/ferdig/.In Treatment Season 2.170311, ipfs sigr153h (sigr170f) QmUY6DAP1GfgXzHjJ4KRqi5qxBUX9Gmd8oF5taHuGix2vP
 170311    19G /lokalt/sigr153h/nedlastinger/transmission/ferdig/.In Treatment Season 3 Complete 720p.170311, (ipfs sigr153h)
 170311   1,3G /lokalt/sigr153h/nedlastinger/transmission/ferdig/.Slaves (1969).avi.170311, (ipfs sigr153h)
 170311  20,9G /lokalt/sigr153lap9/, box
