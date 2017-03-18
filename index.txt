@@ -7,13 +7,11 @@ sigr170f IPFS
 
 
 PÅGÅENDE
-170313    24G FRA /lokalt/sigr153h/nedlastinger/transmission/ferdig/.In Treatment Season 1.170311, ipfs sigr170f QmX3Df1FfNTEAtpYuFmfHVAVgTiDP1dcpcjuSaYEcmL4Tk
-170318        TIL /arkiv/filmer/2016-5/In treatment season 1/, sigr161z
+170311    29G FRA /lokalt/sigr153h/nedlastinger/transmission/ferdig/.Girls Season 3-4 S03-S04 720p BluRay x264-REWARD [RiCK].170311, ipfs sigr170f QmaYAeaYQtQcnDe7gJNGvzhEGhk2LwroQktfPttoE1mATZ
+170318        TIL /arkiv/filmer/2016-6/Girls Seasong 3-4/, sigr161z
 
 
 NESTE HANDLING
-170311    29G FRA /lokalt/sigr153h/nedlastinger/transmission/ferdig/.Girls Season 3-4 S03-S04 720p BluRay x264-REWARD [RiCK].170311, ipfs sigr170f QmaYAeaYQtQcnDe7gJNGvzhEGhk2LwroQktfPttoE1mATZ, (sigr161z:/arkiv/filmer/2016-5/Girls Seasong 3-4/)
-170311        TIL /arkiv/filmer/2016-6/Girls Seasong 3-4/, sigr161z
 170315    23G FRA /lokalt/sigr153h/nedlastinger/transmission/ferdig/.In Treatment Season 2.170311, ipfs sigr153h sigr170f QmUY6DAP1GfgXzHjJ4KRqi5qxBUX9Gmd8oF5taHuGix2vP
 170318        TIL /arkiv/filmer/2016-5/In treatment season 2/, sigr161z
 170311    19G FRA /lokalt/sigr153h/nedlastinger/transmission/ferdig/.In Treatment Season 3 Complete 720p.170311, (ipfs sigr153h)
@@ -112,6 +110,8 @@ NESTE HANDLING
 170311    62G /arkiv/filmer/2016-2/, sigr161z
 170311    98G /arkiv/filmer/2016-3/, sigr161z
 170311    77G /arkiv/filmer/2016-4/, sigr161z
+170318   ???? /arkiv/filmer/2016-5/, sigr161z
+170318    24G /arkiv/filmer/2016-5/In treatment season 1, ipfs sigr170f QmX3Df1FfNTEAtpYuFmfHVAVgTiDP1dcpcjuSaYEcmL4Tk
 170311   1,7G /arkiv/gamle filer/1992 03 - 2006 08 Svenn-disk/, sigr153ekstern2
 170311    13G /arkiv/gamle filer/1998 - 2009 Utdanning/, sigr153ekstern2
 170311    66M /arkiv/gamle filer/2001 08 - 2004 12 Programmeringtools/, sigr153ekstern2
