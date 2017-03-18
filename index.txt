@@ -7,11 +7,13 @@ sigr170f IPFS
 
 
 PÅGÅENDE
-170311    29G /lokalt/sigr153h/nedlastinger/transmission/ferdig/.Girls Season 3-4 S03-S04 720p BluRay x264-REWARD [RiCK].170311, ipfs sigr170f QmaYAeaYQtQcnDe7gJNGvzhEGhk2LwroQktfPttoE1mATZ, (sigr161z:/arkiv/filmer/2016-5/Girls Seasong 3-4/)
+170313    24G FRA /lokalt/sigr153h/nedlastinger/transmission/ferdig/.In Treatment Season 1.170311, ipfs sigr170f QmX3Df1FfNTEAtpYuFmfHVAVgTiDP1dcpcjuSaYEcmL4Tk
+170318    24G TIL /arkiv/filmer/2016-5/In treatment season 1/, sigr161z
 
 
 NESTE HANDLING
-170313    24G /lokalt/sigr153h/nedlastinger/transmission/ferdig/.In Treatment Season 1.170311, ipfs sigr170f QmX3Df1FfNTEAtpYuFmfHVAVgTiDP1dcpcjuSaYEcmL4Tk
+170311    29G FRA /lokalt/sigr153h/nedlastinger/transmission/ferdig/.Girls Season 3-4 S03-S04 720p BluRay x264-REWARD [RiCK].170311, ipfs sigr170f QmaYAeaYQtQcnDe7gJNGvzhEGhk2LwroQktfPttoE1mATZ, (sigr161z:/arkiv/filmer/2016-5/Girls Seasong 3-4/)
+170311    29G TIL /arkiv/filmer/2016-6/Girls Seasong 3-4/, sigr161z
 170315    23G /lokalt/sigr153h/nedlastinger/transmission/ferdig/.In Treatment Season 2.170311, ipfs sigr153h sigr170f QmUY6DAP1GfgXzHjJ4KRqi5qxBUX9Gmd8oF5taHuGix2vP
 170311    19G /lokalt/sigr153h/nedlastinger/transmission/ferdig/.In Treatment Season 3 Complete 720p.170311, (ipfs sigr153h)
 170311   1,3G /lokalt/sigr153h/nedlastinger/transmission/ferdig/.Slaves (1969).avi.170311, (ipfs sigr153h)
@@ -258,5 +260,5 @@ NESTE HANDLING
 170311  11,3M /nå/prosjekter/, box
 170311 125,5M /nå/viktig/, box
 
-Oppdatert: 170315
+Oppdatert: 170318
 Opprettet: 170309
