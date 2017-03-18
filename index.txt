@@ -121,6 +121,7 @@ NESTE HANDLING
 170311   639M /arkiv/gamle filer/2008 - 2012 Opera/, sigr153ekstern2
 170311   2,8G /arkiv/gamle filer/2010 08 - 2012 01 Diverse filer/, sigr153ekstern2
 170311   7,5G /arkiv/gamle filer/2013 Liten grå Lenovo laptop/, sigr153ekstern2
+
 170311        /arkiv/geografi/2005/, dropbox
 170311   132M /arkiv/geografi/2005/, sigr153ekstern2
 170311   133M /arkiv/geografi/2005/, sigr161z
