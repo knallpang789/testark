@@ -149,29 +149,6 @@ NESTE HANDLING
 170311 276,9K /nå/2015/12/, box
 170311 671,5K /nå/2015/Inventum kontorforum/, box
 170311  55,7G /nå/2015/Mobil og IT AS/, box
-170311   2,0M /nå/2016/01/, box
-170311 293,5M /nå/2016/02/, box
-170311   3,2G /nå/2016/03/, box
-170311 202,9K /nå/2016/04/, box
-170311   8,6G /nå/2016/05/, box
-170311  84,2K /nå/2016/06/, box
-170311  10,4G /nå/2016/07/, box
-170311  37,5M /nå/2016/08/, box
-170311   7,1M /nå/2016/09/, box
-170311 482,5M /nå/2016/10/, box
-170311  13,2M /nå/2016/11/, box
-170311  36,3M /nå/2016/12/, box
-170311 147,8G /nå/2016/Inventum kontorforum/, box
-170311   1,8G /nå/2016/programmer/, box
-170311   6,0G /nå/2016/trading/, box
-170311   1,8G /nå/2017/01/, box
-170310        /nå/2017/.01.170310-plain, ipfs sigr170h QmdH2Hj9twgmZP2FoUFsLj6aUjPQqQ8HpqM1XgFaJTdVqn
-170311   3,9G /nå/2017/02/, box
-170310        /nå/2017/.02.170310-plain, ipfs sigr170h sigr170f QmRputZCPuWJ1xWXXSAyS4yPm6GMePVaWwx2rQ5DK6vu1w
-170311  11,1M /nå/2017/03/, box
-170309        /nå/2017/.03.170309-plain, ipfs sigr170h sigr170f QmNwR3RrQSBQL75LCmJNbZKyGczSh7iwRTZi25sduqCBUW
-170311  42,6M /nå/2017/Mobil og IT AS/, box
-170311 288,2M /nå/2017/trading/, box
 170311   2,0M /nå/perspektiv/, box
 170311  11,3M /nå/prosjekter/, box
 170311 125,5M /nå/viktig/, box
