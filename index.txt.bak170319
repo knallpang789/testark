@@ -27,6 +27,99 @@ NESTE HANDLING
 !sigr15xxx 2 fysiske harddisker i stasjonær maskin med ZFS, koblet til sigr153vm1 per 170311
 
 
+170311 173,2M /arkiv/2014/kvitteringer/, box
+170311   184M /arkiv/2014/kvitteringer/, sigr161z
+170311  12,0G /arkiv/2014/nytteprogrammer/, box
+170311    12G /arkiv/2014/nytteprogrammer/, sigr161z
+170311   7,8M /arkiv/2014/oppskrifter/, sigr161z
+170311  27,7M /arkiv/2014/post inn/, box
+170311    33M /arkiv/2014/post inn/, sigr161z
+170311   6,3K /arkiv/2014/post ut/, box
+170311    33K /arkiv/2014/post ut/, sigr161z
+170311   3,7M /arkiv/2014/verdipapirer/, box
+170311   3,8M /arkiv/2014/verdipapirer/, sigr161z
+170311   1,1M /arkiv/2015/Lage en database for regnskap og budsjett/, box
+170311   1,6M /arkiv/2015/Lage en database for regnskap og budsjett/, sigr161z
+170311  72,4G /arkiv/2015/Mobil og IT 150810/, box
+170311    47G /arkiv/2015/Mobil og IT 150810/, sigr161z
+170311   8,5K /arkiv/2015/oppskrifter 2015/, sigr161z
+170311 209,1K /arkiv/2015/post inn/, box
+170311   8,5K /arkiv/2015/post inn/, sigr161z
+170311   3,6M /arkiv/2015/verdipapirer/, box
+170311   8,5K /arkiv/2015/verdipapirer/, sigr161z
+170311   1,1G /arkiv/2017/operativsystemer/, box
+170311 167,8M /arkiv/bilder/2004/, box
+170311   176M /arkiv/bilder/2004/, sigr153ekstern2
+170311     8M /arkiv/bilder/2004/, sigr161z
+170311   2,8G /arkiv/bilder/2005/, box
+170311   3,0G /arkiv/bilder/2005/, sigr153ekstern2
+170311   3,0G /arkiv/bilder/2005/, sigr161z
+170311 463,9M /arkiv/bilder/2006/, box
+170311   482M /arkiv/bilder/2006/, sigr153ekstern2
+170311   483M /arkiv/bilder/2006/, sigr161z
+170311   1,5G /arkiv/bilder/2007/, box
+170311   1,6G /arkiv/bilder/2007/, sigr153ekstern2
+170311   1,6G /arkiv/bilder/2007/, sigr161z
+170311 316,2M /arkiv/bilder/2008/, box
+170311   332M /arkiv/bilder/2008/, sigr153ekstern2
+170311   334M /arkiv/bilder/2008/, sigr161z
+170311   2,2G /arkiv/bilder/2009/, box
+170311   2,3G /arkiv/bilder/2009/, sigr153ekstern2
+170311   2,3G /arkiv/bilder/2009/, sigr161z
+170311 280,6M /arkiv/bilder/2010/, box
+170311   294M /arkiv/bilder/2010/, sigr153ekstern2
+170311   295M /arkiv/bilder/2010/, sigr161z
+170311   1,2G /arkiv/bilder/2011/, box
+170311   1,3G /arkiv/bilder/2011/, sigr153ekstern2
+170311   1,3G /arkiv/bilder/2011/, sigr161z
+170311  43,0G /arkiv/bilder/2012/, box
+170311    44G /arkiv/bilder/2012/, sigr153ekstern2
+170311    44G /arkiv/bilder/2012/, sigr161z
+170311 512,2M /arkiv/bilder/2013/, box
+170311   523M /arkiv/bilder/2013/, sigr153ekstern2
+170311   524M /arkiv/bilder/2013/, sigr161z
+170311  24,1G /arkiv/bilder/2014/, box
+170311    31G /arkiv/bilder/2014/, sigr153ekstern2
+170311    31G /arkiv/bilder/2014/, sigr161z
+170311  19,2G /arkiv/bilder/2015/, box
+170311    57M /arkiv/bilder/2015/, sigr153ekstern2
+170311    57M /arkiv/bilder/2015/, sigr161z
+170311  16,2G /arkiv/bilder/2016/, box
+170311 701,7M /arkiv/bilder/skrivebordsbakgrunner/, box
+170311    19G /arkiv/filmer/2007/, sigr153ekstern2
+170311     9G /arkiv/filmer/2007/, sigr161z
+170311   2,8G /arkiv/filmer/2008/, sigr153ekstern2
+170311   2,8G /arkiv/filmer/2008/, sigr161z
+170311    19G /arkiv/filmer/2009/, sigr153ekstern2
+170311    19G /arkiv/filmer/2009/, sigr161z
+170311   8,5K /arkiv/filmer/2010/, sigr161z
+170311   8,5K /arkiv/filmer/2011/, sigr161z
+170311   2,2G /arkiv/filmer/2012/, sigr153ekstern2
+170311   2,2G /arkiv/filmer/2012/, sigr161z
+170311   8,5K /arkiv/filmer/2013/, sigr161z
+170311   1,3G /arkiv/filmer/2014/, sigr153ekstern2
+170311   1,3G /arkiv/filmer/2014/, sigr161z
+170311        /arkiv/filmer/2015/, dropbox
+170311   6,1G /arkiv/filmer/2015/, sigr153ekstern2
+170311    17G /arkiv/filmer/2015/, sigr161z
+170311    37G /arkiv/filmer/2016-1/, sigr161z
+170311    62G /arkiv/filmer/2016-2/, sigr161z
+170311    98G /arkiv/filmer/2016-3/, sigr161z
+170311    77G /arkiv/filmer/2016-4/, sigr161z
+170318   ???? /arkiv/filmer/2016-5/, sigr161z
+170318    24G /arkiv/filmer/2016-5/In treatment season 1, ipfs sigr170f QmX3Df1FfNTEAtpYuFmfHVAVgTiDP1dcpcjuSaYEcmL4Tk
+170315    23G /arkiv/filmer/2016-5/In treatment season 2/, ipfs sigr153h sigr170f QmUY6DAP1GfgXzHjJ4KRqi5qxBUX9Gmd8oF5taHuGix2vP
+170311        /arkiv/filmer/2016-6/Girls Seasong 3-4/, ipfs sigr170f QmaYAeaYQtQcnDe7gJNGvzhEGhk2LwroQktfPttoE1mATZ
+170311   1,7G /arkiv/gamle filer/1992 03 - 2006 08 Svenn-disk/, sigr153ekstern2
+170311    13G /arkiv/gamle filer/1998 - 2009 Utdanning/, sigr153ekstern2
+170311    66M /arkiv/gamle filer/2001 08 - 2004 12 Programmeringtools/, sigr153ekstern2
+170311   2,6G /arkiv/gamle filer/2002 - 2009 Temaer/, sigr153ekstern2
+170311   2,1G /arkiv/gamle filer/2004 - 2009 Sosial/, sigr153ekstern2
+170311    17M /arkiv/gamle filer/2005 08 - 2006 06 Fra tiden i Gjøvi/, sigr153ekstern2k
+170311   639M /arkiv/gamle filer/2008 - 2012 Opera/, sigr153ekstern2
+170311   2,8G /arkiv/gamle filer/2010 08 - 2012 01 Diverse filer/, sigr153ekstern2
+170311   7,5G /arkiv/gamle filer/2013 Liten grå Lenovo laptop/, sigr153ekstern2
+
 170311        /arkiv/geografi/2005/, dropbox
 170311   132M /arkiv/geografi/2005/, sigr153ekstern2
 170311   133M /arkiv/geografi/2005/, sigr161z
