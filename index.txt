@@ -7,11 +7,11 @@ sigr170f IPFS
 
 
 PÅGÅENDE
+170311    19G FRA /lokalt/sigr153h/nedlastinger/transmission/ferdig/.In Treatment Season 3 Complete 720p.170311, (ipfs sigr153h)
+170319        TIL /arkiv/filmer/2016-5/In treatment season 3/, ipfs sigr153h --> sigr161z
 
 
 NESTE HANDLING
-170311    19G FRA /lokalt/sigr153h/nedlastinger/transmission/ferdig/.In Treatment Season 3 Complete 720p.170311, (ipfs sigr153h)
-170318        TIL /arkiv/filmer/2016-5/In treatment season 3/, sigr161z
 170311   1,3G FRA /lokalt/sigr153h/nedlastinger/transmission/ferdig/.Slaves (1969).avi.170311, (ipfs sigr153h)
 170318        TIL /arkiv/filmer/2016-5/Slaves (1969)/, sigr161z
 170319        FRA /lokalt/sigr153h/nedlastinger/transmission/, sigr153h
