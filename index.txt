@@ -31,34 +31,6 @@ NESTE HANDLING
 !sigr15xxx 2 fysiske harddisker i stasjonær maskin med ZFS, koblet til sigr153vm1 per 170311
 
 
-170311        /arkiv/geografi/2005/, dropbox
-170311   132M /arkiv/geografi/2005/, sigr153ekstern2
-170311   133M /arkiv/geografi/2005/, sigr161z
-170311   4,4G /arkiv/geografi/2005for/, sigr153ekstern2
-170311   4,3G /arkiv/geografi/2005for/, sigr161z
-170311   2,5G /arkiv/geografi/2007/, sigr153ekstern2
-170311   2,5G /arkiv/geografi/2007/, sigr161z
-170311    35G /arkiv/geografi/2007for/, sigr153ekstern2
-170311    35G /arkiv/geografi/2007for/, sigr161z
-170311   109G /arkiv/geografi/2008-2009/, sigr153ekstern2
-170311   109G /arkiv/geografi/2008-2009/, sigr161z
-170311        /arkiv/geografi/2010/, dropbox
-170311    29G /arkiv/geografi/2010/, sigr153ekstern2
-170311    29G /arkiv/geografi/2010/, sigr161z
-170311   121G /arkiv/geografi/2011/, sigr153ekstern2
-170311   121G /arkiv/geografi/2011/, sigr161z
-170311        /arkiv/geografi/2012/, dropbox
-170311    15G /arkiv/geografi/2012/, sigr153ekstern2
-170311    15G /arkiv/geografi/2012/, sigr161z
-170311    12G /arkiv/geografi/2013/, sigr153ekstern2
-170311    12G /arkiv/geografi/2013/, sigr161z
-170311        /arkiv/geografi/2014/, dropbox
-170311    17G /arkiv/geografi/2014/, sigr153ekstern2
-170311    52G /arkiv/geografi/2014/, sigr161z
-170311        /arkiv/geografi/2015/, dropbox
-170311    19G /arkiv/geografi/2015/, sigr153ekstern2
-170311    23G /arkiv/geografi/2015/, sigr161z
-170311   504M /arkiv/geografi/2016/, sigr161z
 170311        /arkiv/musikk/2014/, dropbox
 170311   4,2M /arkiv/musikk/2014/, sigr161z
 170311   619M /arkiv/programmer/1997-1998/, sigr153ekstern2
@@ -149,9 +121,6 @@ NESTE HANDLING
 170311 276,9K /nå/2015/12/, box
 170311 671,5K /nå/2015/Inventum kontorforum/, box
 170311  55,7G /nå/2015/Mobil og IT AS/, box
-170311   2,0M /nå/perspektiv/, box
-170311  11,3M /nå/prosjekter/, box
-170311 125,5M /nå/viktig/, box
 
 Oppdatert: 170319
 Opprettet: 170309
