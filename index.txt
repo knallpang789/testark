@@ -7,21 +7,19 @@ sigr170f IPFS
 
 
 PÅGÅENDE
-170311    19G FRA /lokalt/sigr153h/nedlastinger/transmission/ferdig/.In Treatment Season 3 Complete 720p.170311, (ipfs sigr153h)
-170319        TIL /arkiv/filmer/2016-5/In treatment season 3/, ipfs sigr153h --> sigr161z
+170311   1,3G FRA /lokalt/sigr153h/nedlastinger/transmission/ferdig/.Slaves (1969).avi.170311, sigr153h
+170318        TIL /arkiv/filmer/2016-5/Slaves (1969)/Slaves (1969).avi, ipfs sigr153h --> sigr161z
 
 
 NESTE HANDLING
-170311   1,3G FRA /lokalt/sigr153h/nedlastinger/transmission/ferdig/.Slaves (1969).avi.170311, (ipfs sigr153h)
-170318        TIL /arkiv/filmer/2016-5/Slaves (1969)/, sigr161z
 170319        FRA /lokalt/sigr153h/nedlastinger/transmission/, sigr153h
-170319    12G TIL /arkiv/filmer/2016-X/Heartbeat sesong 14, (ipfs sigr153h)
+170319    12G TIL /arkiv/filmer/2016-X/Heartbeat sesong 14, (ipfs sigr153h --> sigr161z)
 170319        FRA /lokalt/sigr153h/nedlastinger/transmission/, sigr153h
-170319    12G TIL /arkiv/filmer/2016-X/Heartbeat sesong 15 + bonus, (ipfs sigr153h)
+170319    12G TIL /arkiv/filmer/2016-X/Heartbeat sesong 15 + bonus, (ipfs sigr153h --> sigr161z)
 170319        FRA /lokalt/sigr153h/nedlastinger/transmission/, sigr153h
-170319    11G TIL /arkiv/filmer/2016-X/Heartbeat sesong 16, (ipfs sigr153h) 
+170319    11G TIL /arkiv/filmer/2016-X/Heartbeat sesong 16, (ipfs sigr153h --> sigr161z)
 170319        FRA /lokalt/sigr153h/nedlastinger/transmission/, sigr153h
-170319    12G TIL /arkiv/filmer/2016-X/Heartbeat sesong 17 + bonus, (ipfs sigr153h)
+170319    12G TIL /arkiv/filmer/2016-X/Heartbeat sesong 17 + bonus, (ipfs sigr153h --> sigr161z)
 
 170311        /arkiv/gamle filer//, sigr161z
 170311    48G /lokalt (na)/sigr132u/, sigr153ekstern2
