@@ -7,19 +7,10 @@ sigr170f IPFS
 
 
 PÅGÅENDE
-170311   1,3G FRA /lokalt/sigr153h/nedlastinger/transmission/ferdig/.Slaves (1969).avi.170311, sigr153h
-170318        TIL /arkiv/filmer/2016-5/Slaves (1969)/Slaves (1969).avi, ipfs sigr153h --> sigr161z
 
 
 NESTE HANDLING
-170319        FRA /lokalt/sigr153h/nedlastinger/transmission/, sigr153h
-170319    12G TIL /arkiv/filmer/2016-X/Heartbeat sesong 14, (ipfs sigr153h --> sigr161z)
-170319        FRA /lokalt/sigr153h/nedlastinger/transmission/, sigr153h
-170319    12G TIL /arkiv/filmer/2016-X/Heartbeat sesong 15 + bonus, (ipfs sigr153h --> sigr161z)
-170319        FRA /lokalt/sigr153h/nedlastinger/transmission/, sigr153h
-170319    11G TIL /arkiv/filmer/2016-X/Heartbeat sesong 16, (ipfs sigr153h --> sigr161z)
-170319        FRA /lokalt/sigr153h/nedlastinger/transmission/, sigr153h
-170319    12G TIL /arkiv/filmer/2016-X/Heartbeat sesong 17 + bonus, (ipfs sigr153h --> sigr161z)
+
 
 170311        /arkiv/gamle filer//, sigr161z
 170311    48G /lokalt (na)/sigr132u/, sigr153ekstern2
@@ -30,41 +21,26 @@ NESTE HANDLING
 
 
 170311        /arkiv/musikk/2014/, dropbox
-170311   4,2M /arkiv/musikk/2014/, sigr161z
 170311   619M /arkiv/programmer/1997-1998/, sigr153ekstern2
-170311    23M /arkiv/programmer/1997-1998/, sigr161z
 170311   426M /arkiv/programmer/2003/, sigr153ekstern2
-170311   426M /arkiv/programmer/2003/, sigr161z
 170311        /arkiv/programmer/2005-2007/, dropbox
-170311   2,9G /arkiv/programmer/2005-2007/, sigr161z
 170311   3,6G /arkiv/programmer/2005-2007/, sigr153ekstern2
 170311   273M /arkiv/programmer/2006/, sigr153ekstern2
-170311   283M /arkiv/programmer/2006/, sigr161z
 170311    26M /arkiv/programmer/2007/, sigr153ekstern2
-170311    26M /arkiv/programmer/2007/, sigr161z
 170311   627M /arkiv/programmer/2008/, sigr153ekstern2
-170311   634M /arkiv/programmer/2008/, sigr161z
 170311   6,7G /arkiv/programmer/2009/, sigr153ekstern2
-170311   6,7G /arkiv/programmer/2009/, sigr161z
 170311    64G /arkiv/programmer/2010/, sigr153ekstern2
-170311    64G /arkiv/programmer/2010/, sigr161z
 170311        /arkiv/programmer/2011/, dropbox
 170311   8,1G /arkiv/programmer/2011/, sigr153ekstern2
-170311   8,1G /arkiv/programmer/2011/, sigr161z
 170311        /arkiv/programmer/2013/, dropbox
 170311    17G /arkiv/programmer/2013/, sigr153ekstern2
-170311    17G /arkiv/programmer/2013/, sigr161z
 170311        /arkiv/programmer/2014/, dropbox
-170311   1,8G /arkiv/programmer/2014/, sigr161z
-170311    21G /arkiv/programmer/2016/, sigr161z
 170311  26,3G /arkiv/gamle filer/, box
 170311   6,6M /arkiv/oppskrifter/2014/, box
 170311  11,3M /arkiv/oppskrifter/2015/, box
 170311 254,0B /arkiv/oppskrifter/2017/, box
 170311   3,8G /arkiv/videoer/2005/, sigr153ekstern2
-170311   3,8G /arkiv/videoer/2005/, sigr161z
 170311    65G /arkiv/videoer/2007/, sigr153ekstern2
-170311    65G /arkiv/videoer/2007/, sigr161z
 170311   3,5G /arkiv/videoer/2008/, box
 170311  18,2G /backup/2014/, box
 170311   4,3G /backup/2015/, box
@@ -120,5 +96,5 @@ NESTE HANDLING
 170311 671,5K /nå/2015/Inventum kontorforum/, box
 170311  55,7G /nå/2015/Mobil og IT AS/, box
 
-Oppdatert: 170319
+Oppdatert: 170322
 Opprettet: 170309
