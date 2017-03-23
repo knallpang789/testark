@@ -6,9 +6,7 @@ sigr170f IPFS
 
 
 PÅGÅENDE
-added QmShHue7T8dRKwBqx3FSjJ98NxHtYZQiWCsMFJ6dgVpY9b /arkiv/geografi/2014/am
 ipfs pin rm QmWMRgYVfBWeQtxmhYm9QBuqg3f1ZESvATnewiiMB1pYwf : 2008 - 2009 Lenovo 3000 V200 076433G  Andreas 2006 - Bilder v1.0.0 test.avi  Everybody wants more v1.0.06.avi  Trond 52 år v1.00.02.avi
-
 
 
 NESTE HANDLING
@@ -16,24 +14,13 @@ NESTE HANDLING
 170323 /lokalt/sigr144y.sigr153ekstern2/tilbox/ er mange bilder jeg har savnet
 
 
+BACKLOG
 170311        /arkiv/musikk/2014/, dropbox
 170311        /arkiv/programmer/2005-2007/, dropbox
 170311        /arkiv/programmer/2011/, dropbox
 170311        /arkiv/programmer/2013/, dropbox
 170311        /arkiv/programmer/2014/, dropbox
-170311  26,3G /arkiv/gamle filer/, box
-170311   6,6M /arkiv/oppskrifter/2014/, box
-170311  11,3M /arkiv/oppskrifter/2015/, box
-170311 254,0B /arkiv/oppskrifter/2017/, box
-170311   3,5G /arkiv/videoer/2008/, box
-170311  18,2G /backup/2014/, box
-170311   4,3G /backup/2015/, box
-170311  56,9M /backup/2016/, box
-170311   1,4M /backup/2017/, box
-170311     0B /db/, box
-170311   1,4G /deling/, box
 170311        /deling/, dropbox
-170311  22,9G /innboks/, box
 170311    77G /innboks/140728 backuper av gamle PCer/, sigr153ekstern2
 170311   1,1G /innboks/140728 fra virtuelle maskiner/, sigr153ekstern2
 170311   6,1G /innboks/140728 Lenovo 110226/, sigr153ekstern2
@@ -45,40 +32,6 @@ NESTE HANDLING
 170311        /lokalt/sigr144s/, dropbox
 170311        /lokalt/sigr144y/, dropbox
 170311        /lokalt/sigr153h/, dropbox
-170311 909,8K /lokalt/sigr100i/, box
-170311   3,8G /lokalt/sigr143a/, box
-170311  44,6G /lokalt/sigr144y/, box
-170311 780,8K /lokalt/sigr152w/, box
-170311  20,9G /lokalt/sigr153lap9/, box
-170311 698,4M /lokalt/sigr153p/, box
-170311  16,2M /lokalt/sigr153t1109/, box
-170311 248,9M /lokalt/sigr154ww/, box
-170311  14,2M /lokalt/sigr155a/, box
-170311   2,4G /lokalt/sigr155lap/, box
-170311  17,6G /lokalt/sigr161lap/, box
-170311  16,7G /lokalt/sigr162a/, box
-170311  32,1M /lokalt/sigr162w/, box
-170311 101,4K /lokalt/sigr170a (sigr162a)/, box
-170309        /lokalt/sigr170f/*, ipfs sigr170f
-170309        /lokalt/sigr170f/170309-ipfs-installasjon/emptyfolder, ipfs sigr170f QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn
-170309        /lokalt/sigr170f/170309-ipfs-installasjon/quickstart, ipfs sigr170f QmVLDAhCY3X9P2uRudKAryuQFPM5zqA3Yij1dY8FpGbL7T
-170311 184,1M /lokalt/sigr170h/, box
-170307        /lokalt/sigr170h/*, ipfs sigr170h
-170311  82,4K /nå/2013/, box
-170311 530,6M /nå/2014/, box
-170311   9,2M /nå/2015/01/, box
-170311   2,0G /nå/2015/02/, box
-170311   4,4M /nå/2015/03/, box
-170311  49,3M /nå/2015/04/, box
-170311   5,7M /nå/2015/05/, box
-170311   1,5M /nå/2015/06/, box
-170311  20,3K /nå/2015/08/, box
-170311   1,5M /nå/2015/09/, box
-170311 601,2K /nå/2015/10/, box
-170311  11,7M /nå/2015/11/, box
-170311 276,9K /nå/2015/12/, box
-170311 671,5K /nå/2015/Inventum kontorforum/, box
-170311  55,7G /nå/2015/Mobil og IT AS/, box
 
 Oppdatert: 170323
 Opprettet: 170309
