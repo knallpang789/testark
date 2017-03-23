@@ -14,24 +14,5 @@ NESTE HANDLING
 170323 /lokalt/sigr144y.sigr153ekstern2/tilbox/ er mange bilder jeg har savnet
 
 
-BACKLOG
-170311        /arkiv/musikk/2014/, dropbox
-170311        /arkiv/programmer/2005-2007/, dropbox
-170311        /arkiv/programmer/2011/, dropbox
-170311        /arkiv/programmer/2013/, dropbox
-170311        /arkiv/programmer/2014/, dropbox
-170311        /deling/, dropbox
-170311    77G /innboks/140728 backuper av gamle PCer/, sigr153ekstern2
-170311   1,1G /innboks/140728 fra virtuelle maskiner/, sigr153ekstern2
-170311   6,1G /innboks/140728 Lenovo 110226/, sigr153ekstern2
-170311   3,6G /innboks/141005 fra a på ekstern harddisk nr 2 [140302 opprettet]/, sigr153ekstern2
-170311        /lokalt/sigr100i/, dropbox
-170311        /lokalt/sigr132w/, dropbox
-170311        /lokalt/sigr134u/, dropbox
-170311        /lokalt/sigr143a/, dropbox
-170311        /lokalt/sigr144s/, dropbox
-170311        /lokalt/sigr144y/, dropbox
-170311        /lokalt/sigr153h/, dropbox
-
 Oppdatert: 170323
 Opprettet: 170309
