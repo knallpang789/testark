@@ -6,12 +6,12 @@ sigr170f IPFS
 
 
 PÅGÅENDE
-ipfs pin rm QmWMRgYVfBWeQtxmhYm9QBuqg3f1ZESvATnewiiMB1pYwf : 2008 - 2009 Lenovo 3000 V200 076433G  Andreas 2006 - Bilder v1.0.0 test.avi  Everybody wants more v1.0.06.avi  Trond 52 år v1.00.02.avi
+170323 170324 ipfs pin rm QmWMRgYVfBWeQtxmhYm9QBuqg3f1ZESvATnewiiMB1pYwf : 2008 - 2009 Lenovo 3000 V200 076433G  Andreas 2006 - Bilder v1.0.0 test.avi  Everybody wants more v1.0.06.avi  Trond 52 år v1.00.02.avi
 
 
 NESTE HANDLING
-sigr170f> ipfs pin rm QmS1yoZTLzobnM1DYqvRVgGB97zyKF3bqC9rFR7KgJTryi : /arkiv/geografi/2014/am/2014 08 fra ekstern harddisk.ipfs-plain-sigr170f.7,0G.170322
-sigr170f> ipfs pin rm QmeDN12bnVPNyptJTzLYWEkD819WosR8NAhAchAofJTcy2 : /arkiv/geografi/2014/am/favoritter.ipfs-plain-sigr170f.995M.170322
+170324 sigr170f> ipfs pin rm QmS1yoZTLzobnM1DYqvRVgGB97zyKF3bqC9rFR7KgJTryi : /arkiv/geografi/2014/am/2014 08 fra ekstern harddisk.ipfs-plain-sigr170f.7,0G.170322
+170324 sigr170f> ipfs pin rm QmeDN12bnVPNyptJTzLYWEkD819WosR8NAhAchAofJTcy2 : /arkiv/geografi/2014/am/favoritter.ipfs-plain-sigr170f.995M.170322
 170323 /lokalt/sigr134u.sigr153ekstern2/jada/ er en del av /arkiv/2014/am/
 170323 /lokalt/sigr144y.sigr153ekstern2/tilbox/ er mange bilder jeg har savnet
 
