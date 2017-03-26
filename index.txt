@@ -1,3 +1,18 @@
+~/.ipfs/config:
+  "#Bootstrap": [
+    "sigr170f: /ip4/10.215.10.17/tcp/4001/ipfs/QmZMkgtAPiJLNaPUtUXJJDxmdY8JiymsvjeuD8PeFVP34D",
+    "sigr170f: /ip4/192.168.17.70/tcp/4017/ipfs/QmZMkgtAPiJLNaPUtUXJJDxmdY8JiymsvjeuD8PeFVP34D",
+    "sigr170h: /ip4/10.215.10.16/tcp/4001/ipfs/QmYVqZ4ugbvvJ8AinbYaAEYzkMbdQqkDs3KpD1yHGLVFjK",
+    "sigr170h: /ip4/192.168.17.70/tcp/4016/ipfs/QmYVqZ4ugbvvJ8AinbYaAEYzkMbdQqkDs3KpD1yHGLVFjK"
+  ],
+  "Bootstrap": [
+    "/ip4/10.215.10.17/tcp/4001/ipfs/QmZMkgtAPiJLNaPUtUXJJDxmdY8JiymsvjeuD8PeFVP34D",
+    "/ip4/192.168.17.70/tcp/4017/ipfs/QmZMkgtAPiJLNaPUtUXJJDxmdY8JiymsvjeuD8PeFVP34D",
+    "/ip4/10.215.10.16/tcp/4001/ipfs/QmYVqZ4ugbvvJ8AinbYaAEYzkMbdQqkDs3KpD1yHGLVFjK",
+    "/ip4/192.168.17.70/tcp/4016/ipfs/QmYVqZ4ugbvvJ8AinbYaAEYzkMbdQqkDs3KpD1yHGLVFjK"
+  ],
+
+
 box
 dropbox
 sigr153ekstern2 Ekstern harddisk, koblet til sigr170f per 170311
@@ -16,5 +31,5 @@ sigr170f> ipfs pin rm QmeDN12bnVPNyptJTzLYWEkD819WosR8NAhAchAofJTcy2 : /arkiv/ge
 170323 /lokalt/sigr144y.sigr153ekstern2/tilbox/ er mange bilder jeg har savnet
 
 
-Oppdatert: 170324
+Oppdatert: 170326
 Opprettet: 170309
