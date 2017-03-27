@@ -9,6 +9,18 @@ NESTE HANDLING
 
 
 ~/.ipfs/config:
+  "Datastore": {
+    "StorageMax": "100GB",
+  },
+  "Addresses": {
+    "Swarm": [
+      "/ip4/{IP}/tcp/{PORT}",
+    ],
+  "Discovery": {
+    "MDNS": {
+      "Enabled": false,
+    }
+  },
   "#Bootstrap": [
     "sigr170f: /ip4/10.215.10.17/tcp/4001/ipfs/QmZMkgtAPiJLNaPUtUXJJDxmdY8JiymsvjeuD8PeFVP34D",
     "sigr170f: /ip4/192.168.17.70/tcp/4017/ipfs/QmZMkgtAPiJLNaPUtUXJJDxmdY8JiymsvjeuD8PeFVP34D",
@@ -27,7 +39,10 @@ box
 dropbox
 sigr153ekstern2 Ekstern harddisk, koblet til sigr170f per 170311
 sigr161z 2 fysiske harddisker i stasjonær maskin med ZFS, koblet til sigr170f per 170311
-sigr170f IPFS
+"sigr170f Filer Debian" virtuell maskin
+- fildeling med IPFS
+- har tilgang til alle filarkivene, for importering til IPFS
+- en dedikert ekstern harddisk på 2TB, montert sammen med en raw 32GB virtuell disk /dev/sda1 som root i et felles btrfs filsystem
 
 
 Oppdatert: 170327
