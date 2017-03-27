@@ -9,6 +9,7 @@ NESTE HANDLING
 
 NESTE HANDLING box TIL sigr161z
 /nå/2015/Mobil og IT AS/
+/lokalt/
 /nå/2016/01/
 /nå/2016/02/
 /nå/2016/03/
@@ -35,19 +36,10 @@ NESTE HANDLING box TIL sigr161z
 /db/
 /deling/
 /innboks/
-/lokalt/
 
 
 NESTE HANDLING dropbox TIL sigr161z
-/lokalt/sigr144y/
-
-/lokalt/sigr100i/
-/lokalt/sigr143a/
-/lokalt/sigr144s/
-/lokalt/sigr153h/
-/lokalt//
 /arkiv/
-/backup/
 /deling/
 /innboks/
 
