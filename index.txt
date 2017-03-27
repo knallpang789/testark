@@ -1,5 +1,5 @@
 PÅGÅENDE
-170327 /sigr/nå/2017/01.ipfs-plain-sigr170f.1,78G.170327
+170327 /sigr/nå/2017/02.ipfs-plain-sigr170f(170325slettet).--G.170310
 
 
 NESTE HANDLING
@@ -30,5 +30,5 @@ sigr161z 2 fysiske harddisker i stasjonær maskin med ZFS, koblet til sigr170f p
 sigr170f IPFS
 
 
-Oppdatert: 170326
+Oppdatert: 170327
 Opprettet: 170309
