@@ -18,11 +18,13 @@ NESTE HANDLING box TIL sigr161z
 /lokalt/sigr170h/
 
 /lokalt/sigr143a/
-/lokalt/sigr144y/
-/lokalt/sigr153lap9/
 /lokalt/sigr155lap/
+
+/lokalt/sigr144y/
 /lokalt/sigr161lap/
 /lokalt/sigr162a/
+/lokalt/sigr153lap9/
+
 /nå/2016/01/
 /nå/2016/02/
 /nå/2016/03/
