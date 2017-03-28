@@ -1,15 +1,29 @@
 PÅGÅENDE
+170324 ipfs pin rm QmWMRgYVfBWeQtxmhYm9QBuqg3f1ZESvATnewiiMB1pYwf : 2008 - 2009 Lenovo 3000 V200 076433G  Andreas 2006 - Bilder v1.0.0 test.avi  Everybody wants more v1.0.06.avi  Trond 52 år v1.00.02.avi
 
 
 NESTE HANDLING
-170324 ipfs pin rm QmWMRgYVfBWeQtxmhYm9QBuqg3f1ZESvATnewiiMB1pYwf : 2008 - 2009 Lenovo 3000 V200 076433G  Andreas 2006 - Bilder v1.0.0 test.avi  Everybody wants more v1.0.06.avi  Trond 52 år v1.00.02.avi
 170323 /lokalt/sigr134u.sigr153ekstern2/jada/ er en del av /arkiv/2014/am/
 170323 /lokalt/sigr144y.sigr153ekstern2/tilbox/ er mange bilder jeg har savnet
 
 
 NESTE HANDLING box TIL sigr161z
-/nå/2015/Mobil og IT AS/
-/lokalt/
+/lokalt/sigr100i/
+/lokalt/sigr152w/
+/lokalt/sigr153p/
+/lokalt/sigr153t1109/
+/lokalt/sigr154ww/
+/lokalt/sigr155a/
+/lokalt/sigr162w/
+/lokalt/sigr170a/
+/lokalt/sigr170h/
+
+/lokalt/sigr143a/
+/lokalt/sigr144y/
+/lokalt/sigr153lap9/
+/lokalt/sigr155lap/
+/lokalt/sigr161lap/
+/lokalt/sigr162a/
 /nå/2016/01/
 /nå/2016/02/
 /nå/2016/03/
@@ -81,5 +95,5 @@ sigr161z 2 fysiske harddisker i stasjonær maskin med ZFS, koblet til sigr170f p
 - en dedikert ekstern harddisk på 2TB, montert sammen med en raw 32GB virtuell disk /dev/sda1 som root i et felles btrfs filsystem
 
 
-Oppdatert: 170327
+Oppdatert: 170328
 Opprettet: 170309
