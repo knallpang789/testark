@@ -7,16 +7,6 @@ NESTE HANDLING
 
 
 NESTE HANDLING box TIL sigr161z
-/lokalt/sigr100i/
-/lokalt/sigr152w/
-/lokalt/sigr153p/
-/lokalt/sigr153t1109/
-/lokalt/sigr154ww/
-/lokalt/sigr155a/
-/lokalt/sigr162w/
-/lokalt/sigr170a/
-/lokalt/sigr170h/
-
 /lokalt/sigr143a/
 /lokalt/sigr155lap/
 
