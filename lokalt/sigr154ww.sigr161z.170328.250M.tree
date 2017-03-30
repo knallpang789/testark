@@ -1,0 +1,26 @@
+sigr154ww.sigr161z.170328.250M
+└── [   3]  sigr154ww.sigr161z.170328.250M/nå
+    └── [   3]  sigr154ww.sigr161z.170328.250M/nå/2015
+        └── [   6]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no
+            ├── [   3]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/151p
+            │   └── [   4]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/151p/backup
+            │       ├── [ 88M]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/151p/backup/150922kl2246-151p-move.sql
+            │       └── [ 30M]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/151p/backup/150922kl2246-151p-move.tar
+            ├── [   3]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/151stat
+            │   └── [   4]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/151stat/backup
+            │       ├── [ 10M]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/151stat/backup/150922kl2304-151stat-move.sql
+            │       └── [ 43M]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/151stat/backup/150922kl2304-151stat-move.tar
+            ├── [   3]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/backup
+            │   └── [320K]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/backup/etc-apache2.tar
+            └── [   5]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/www
+                ├── [   6]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/www/backup
+                │   ├── [2.2M]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/www/backup/150319kl2210-151svennivar-backup.sql
+                │   ├── [ 29M]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/www/backup/150319kl2210-151svennivar-backup.tar
+                │   ├── [6.3M]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/www/backup/150922kl2310-151svennivar-move.sql
+                │   └── [ 37M]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/www/backup/150922kl2310-151svennivar-move.tar
+                ├── [   4]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/www/generelt
+                │   ├── [ 201]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/www/generelt/150409 oppdateringsrutiner.txt
+                │   └── [3.1M]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/www/generelt/drupal-7.34.tar.gz
+                └── [   2]  sigr154ww.sigr161z.170328.250M/nå/2015/svennivar.no/www/nedlastinger
+
+12 directories, 11 files
