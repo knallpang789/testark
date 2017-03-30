@@ -1,0 +1,229 @@
+sigr132u.sigr161z.170326.47,3G
+├── [   4]  sigr132u.sigr161z.170326.47,3G/libvirt
+│   ├── [   3]  sigr132u.sigr161z.170326.47,3G/libvirt/etc-libvirt
+│   │   └── [  11]  sigr132u.sigr161z.170326.47,3G/libvirt/etc-libvirt/libvirt
+│   │       ├── [   2]  sigr132u.sigr161z.170326.47,3G/libvirt/etc-libvirt/libvirt/hooks
+│   │       ├── [  19]  sigr132u.sigr161z.170326.47,3G/libvirt/etc-libvirt/libvirt/nwfilter
+│   │       ├── [   8]  sigr132u.sigr161z.170326.47,3G/libvirt/etc-libvirt/libvirt/qemu
+│   │       │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/libvirt/etc-libvirt/libvirt/qemu/autostart
+│   │       │   └── [   4]  sigr132u.sigr161z.170326.47,3G/libvirt/etc-libvirt/libvirt/qemu/networks
+│   │       │       └── [   3]  sigr132u.sigr161z.170326.47,3G/libvirt/etc-libvirt/libvirt/qemu/networks/autostart
+│   │       └── [   4]  sigr132u.sigr161z.170326.47,3G/libvirt/etc-libvirt/libvirt/storage
+│   │           └── [   3]  sigr132u.sigr161z.170326.47,3G/libvirt/etc-libvirt/libvirt/storage/autostart
+│   └── [   3]  sigr132u.sigr161z.170326.47,3G/libvirt/var-lib-libvirt
+│       └── [   8]  sigr132u.sigr161z.170326.47,3G/libvirt/var-lib-libvirt/libvirt
+│           ├── [   2]  sigr132u.sigr161z.170326.47,3G/libvirt/var-lib-libvirt/libvirt/boot
+│           ├── [   6]  sigr132u.sigr161z.170326.47,3G/libvirt/var-lib-libvirt/libvirt/dnsmasq
+│           ├── [   7]  sigr132u.sigr161z.170326.47,3G/libvirt/var-lib-libvirt/libvirt/images
+│           ├── [   3]  sigr132u.sigr161z.170326.47,3G/libvirt/var-lib-libvirt/libvirt/network
+│           ├── [   6]  sigr132u.sigr161z.170326.47,3G/libvirt/var-lib-libvirt/libvirt/qemu
+│           │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/libvirt/var-lib-libvirt/libvirt/qemu/dump
+│           │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/libvirt/var-lib-libvirt/libvirt/qemu/save
+│           │   └── [   5]  sigr132u.sigr161z.170326.47,3G/libvirt/var-lib-libvirt/libvirt/qemu/snapshot
+│           │       ├── [  10]  sigr132u.sigr161z.170326.47,3G/libvirt/var-lib-libvirt/libvirt/qemu/snapshot/sigr132t27
+│           │       └── [   4]  sigr132u.sigr161z.170326.47,3G/libvirt/var-lib-libvirt/libvirt/qemu/snapshot/sigr132t29
+│           └── [   2]  sigr132u.sigr161z.170326.47,3G/libvirt/var-lib-libvirt/libvirt/sanlock
+└── [   7]  sigr132u.sigr161z.170326.47,3G/svenn
+    ├── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/arbeid
+    │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/arbeid/2013
+    │   └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/arbeid/nytteprogrammer
+    ├── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme
+    │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/nytteprogrammer
+    │   └── [  11]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks
+    │       ├── [  17]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git
+    │       │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/branches
+    │       │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/gitweb
+    │       │   │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/gitweb/firefox
+    │       │   │   └── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/gitweb/tmp
+    │       │   ├── [  10]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/hooks
+    │       │   ├── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/info
+    │       │   ├── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/logs
+    │       │   │   └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/logs/refs
+    │       │   │       └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/logs/refs/heads
+    │       │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/lost-found
+    │       │   │   └── [  16]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/lost-found/commit
+    │       │   ├── [  14]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/objects
+    │       │   │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/objects/0e
+    │       │   │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/objects/24
+    │       │   │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/objects/27
+    │       │   │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/objects/39
+    │       │   │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/objects/86
+    │       │   │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/objects/c0
+    │       │   │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/objects/c2
+    │       │   │   ├── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/objects/c7
+    │       │   │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/objects/e4
+    │       │   │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/objects/ef
+    │       │   │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/objects/info
+    │       │   │   └── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/objects/pack
+    │       │   └── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/refs
+    │       │       ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/refs/heads
+    │       │       └── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.git/refs/tags
+    │       └── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/hjemme/tasks/.task
+    ├── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla
+    │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/extensions
+    │   └── [   7]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox
+    │       ├── [  34]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/0er11h2y.gjest
+    │       │   ├── [   8]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/0er11h2y.gjest/bookmarkbackups
+    │       │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/0er11h2y.gjest/extensions
+    │       │   ├── [  11]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/0er11h2y.gjest/ghostery
+    │       │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/0er11h2y.gjest/healthreport
+    │       │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/0er11h2y.gjest/indexedDB
+    │       │   │   └── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/0er11h2y.gjest/indexedDB/chrome
+    │       │   │       └── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/0er11h2y.gjest/indexedDB/chrome/idb
+    │       │   │           └── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/0er11h2y.gjest/indexedDB/chrome/idb/846562544phus
+    │       │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/0er11h2y.gjest/minidumps
+    │       │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/0er11h2y.gjest/weave
+    │       │   │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/0er11h2y.gjest/weave/changes
+    │       │   │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/0er11h2y.gjest/weave/failed
+    │       │   │   └── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/0er11h2y.gjest/weave/toFetch
+    │       │   └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/0er11h2y.gjest/webapps
+    │       ├── [  10]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/Crash Reports
+    │       │   └── [  74]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/Crash Reports/pending
+    │       ├── [  51]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat
+    │       │   ├── [  12]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/bookmarkbackups
+    │       │   ├── [   7]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions
+    │       │   │   └── [   9]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org
+    │       │   │       ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome
+    │       │   │       │   ├── [  18]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/content
+    │       │   │       │   │   ├── [  14]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/content/code
+    │       │   │       │   │   └── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/content/rules
+    │       │   │       │   ├── [  36]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/ar
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/bg
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/cs
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/da
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/de
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/el
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/en
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/es
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/eu
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/fa
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/fi
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/fr
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/he
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/hr
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/hu
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/it
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/ja
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/ko
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/lt
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/lv
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/ms
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/nb
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/nl
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/pl
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/pt
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/ru
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/si
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/sk
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/sl
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/sv
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/tr
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/zh-CN
+    │       │   │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/zh_TW
+    │       │   │       │   │   └── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/locale/zh-TW
+    │       │   │       │   └── [  14]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/chrome/skin
+    │       │   │       ├── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/components
+    │       │   │       └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/defaults
+    │       │   │           └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/extensions/https-everywhere@eff.org/defaults/preferences
+    │       │   ├── [  11]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/ghostery
+    │       │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/healthreport
+    │       │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/HTTPSEverywhereUserRules
+    │       │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/indexedDB
+    │       │   │   └── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/indexedDB/chrome
+    │       │   │       └── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/indexedDB/chrome/idb
+    │       │   │           └── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/indexedDB/chrome/idb/846562544phus
+    │       │   ├── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/jetpack
+    │       │   │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/jetpack/firefox@ghostery.com
+    │       │   │   │   └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/jetpack/firefox@ghostery.com/simple-storage
+    │       │   │   └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/jetpack/jid1-ZAdIEUB7XOzOJw@jetpack
+    │       │   │       └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/jetpack/jid1-ZAdIEUB7XOzOJw@jetpack/simple-storage
+    │       │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/minidumps
+    │       │   ├── [   8]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/safebrowsing
+    │       │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/thumbnails
+    │       │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/weave
+    │       │   │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/weave/changes
+    │       │   │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/weave/failed
+    │       │   │   └── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/weave/toFetch
+    │       │   └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/d9zehu5x.privat/webapps
+    │       └── [  58]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default
+    │           ├── [  12]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/bookmarkbackups
+    │           ├── [   9]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions
+    │           │   └── [   9]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org
+    │           │       ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome
+    │           │       │   ├── [  18]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/content
+    │           │       │   │   ├── [  14]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/content/code
+    │           │       │   │   └── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/content/rules
+    │           │       │   ├── [  36]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/ar
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/bg
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/cs
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/da
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/de
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/el
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/en
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/es
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/eu
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/fa
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/fi
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/fr
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/he
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/hr
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/hu
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/it
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/ja
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/ko
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/lt
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/lv
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/ms
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/nb
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/nl
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/pl
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/pt
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/ru
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/si
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/sk
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/sl
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/sv
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/tr
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/zh-CN
+    │           │       │   │   ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/zh_TW
+    │           │       │   │   └── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/locale/zh-TW
+    │           │       │   └── [  14]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/chrome/skin
+    │           │       ├── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/components
+    │           │       └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/defaults
+    │           │           └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/extensions/https-everywhere@eff.org/defaults/preferences
+    │           ├── [  11]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/ghostery
+    │           ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/healthreport
+    │           ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/HTTPSEverywhereUserRules
+    │           ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/indexedDB
+    │           │   └── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/indexedDB/chrome
+    │           │       └── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/indexedDB/chrome/idb
+    │           │           └── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/indexedDB/chrome/idb/846562544phus
+    │           ├── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/jetpack
+    │           │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/jetpack/firefox@ghostery.com
+    │           │   │   └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/jetpack/firefox@ghostery.com/simple-storage
+    │           │   └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/jetpack/jid1-ZAdIEUB7XOzOJw@jetpack
+    │           │       └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/jetpack/jid1-ZAdIEUB7XOzOJw@jetpack/simple-storage
+    │           ├── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/minidumps
+    │           ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/searchplugins
+    │           ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/weave
+    │           │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/weave/changes
+    │           │   ├── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/weave/failed
+    │           │   └── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/weave/toFetch
+    │           └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/.mozilla/firefox/vxfhvz12.default/webapps
+    ├── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/nedlastinger
+    │   ├── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/nedlastinger/firefox
+    │   └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/nedlastinger/transmission
+    │       └── [  10]  sigr132u.sigr161z.170326.47,3G/svenn/nedlastinger/transmission/transmission
+    │           ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/nedlastinger/transmission/transmission/After Sex 2008
+    │           ├── [   4]  sigr132u.sigr161z.170326.47,3G/svenn/nedlastinger/transmission/transmission/Sex And Lucia [Lucia y el sexo].2001.BRRip.XviD-VLiS
+    │           ├── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/nedlastinger/transmission/transmission/Sex.Drive[2008][Unrated.Edition]DvDrip-aXXo
+    │           └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/nedlastinger/transmission/transmission/uferdig
+    └── [   5]  sigr132u.sigr161z.170326.47,3G/svenn/nå
+        ├── [  13]  sigr132u.sigr161z.170326.47,3G/svenn/nå/13aug
+        │   └── [   3]  sigr132u.sigr161z.170326.47,3G/svenn/nå/13aug/newvm
+        ├── [  18]  sigr132u.sigr161z.170326.47,3G/svenn/nå/13jul
+        └── [   2]  sigr132u.sigr161z.170326.47,3G/svenn/nå/tmp
+
+226 directories

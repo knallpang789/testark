@@ -1,0 +1,1100 @@
+sigr162a.sigr161z.170330.16,8G
+├── [   4]  sigr162a.sigr161z.170330.16,8G/acl (Call History Manager)
+│   ├── [   3]  sigr162a.sigr161z.170330.16,8G/acl (Call History Manager)/backup
+│   │   └── [ 36K]  sigr162a.sigr161z.170330.16,8G/acl (Call History Manager)/backup/Backup_2017-02-22_02-09-12.acl
+│   └── [   3]  sigr162a.sigr161z.170330.16,8G/acl (Call History Manager)/export
+│       └── [ 30K]  sigr162a.sigr161z.170330.16,8G/acl (Call History Manager)/export/ACL_export_2017-02-22_02-07-40.xls
+├── [  29]  sigr162a.sigr161z.170330.16,8G/bilder
+│   ├── [152K]  sigr162a.sigr161z.170330.16,8G/bilder/1474476010444.jpg
+│   ├── [ 89K]  sigr162a.sigr161z.170330.16,8G/bilder/1474810027531.jpg
+│   ├── [129K]  sigr162a.sigr161z.170330.16,8G/bilder/1474902439476.jpg
+│   ├── [140K]  sigr162a.sigr161z.170330.16,8G/bilder/1474902573242.jpg
+│   ├── [104K]  sigr162a.sigr161z.170330.16,8G/bilder/1474991052625.jpg
+│   ├── [ 85K]  sigr162a.sigr161z.170330.16,8G/bilder/1474991281704.jpg
+│   ├── [108K]  sigr162a.sigr161z.170330.16,8G/bilder/1474991364687.jpg
+│   ├── [170K]  sigr162a.sigr161z.170330.16,8G/bilder/1474991477764.jpg
+│   ├── [ 56K]  sigr162a.sigr161z.170330.16,8G/bilder/1474997525565.jpg
+│   ├── [144K]  sigr162a.sigr161z.170330.16,8G/bilder/1474999627833.jpg
+│   ├── [ 78K]  sigr162a.sigr161z.170330.16,8G/bilder/1475244311636.jpg
+│   ├── [ 63K]  sigr162a.sigr161z.170330.16,8G/bilder/1475689974350.jpg
+│   ├── [ 81K]  sigr162a.sigr161z.170330.16,8G/bilder/1475690841175.jpg
+│   ├── [ 81K]  sigr162a.sigr161z.170330.16,8G/bilder/1475952284939.jpg
+│   ├── [ 92K]  sigr162a.sigr161z.170330.16,8G/bilder/1476201603282.jpg
+│   ├── [ 75K]  sigr162a.sigr161z.170330.16,8G/bilder/1476201633090.jpg
+│   ├── [ 69K]  sigr162a.sigr161z.170330.16,8G/bilder/1476735638759.jpg
+│   ├── [ 37K]  sigr162a.sigr161z.170330.16,8G/bilder/1476735683591.jpg
+│   ├── [208K]  sigr162a.sigr161z.170330.16,8G/bilder/1476994134536.jpg
+│   ├── [140K]  sigr162a.sigr161z.170330.16,8G/bilder/1478884521418.jpg
+│   ├── [131K]  sigr162a.sigr161z.170330.16,8G/bilder/1478966103659.jpg
+│   ├── [ 70K]  sigr162a.sigr161z.170330.16,8G/bilder/1480983871241.jpg
+│   ├── [ 69K]  sigr162a.sigr161z.170330.16,8G/bilder/1480983940708.jpg
+│   ├── [388K]  sigr162a.sigr161z.170330.16,8G/bilder/1486219098181.jpg
+│   ├── [658K]  sigr162a.sigr161z.170330.16,8G/bilder/1486219831596.jpg
+│   ├── [   3]  sigr162a.sigr161z.170330.16,8G/bilder/Messenger
+│   │   └── [139K]  sigr162a.sigr161z.170330.16,8G/bilder/Messenger/received_229427814150619.jpeg
+│   └── [ 115]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots
+│       ├── [   0]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/.escheck.tmp
+│       ├── [425K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20160927-195853.png
+│       ├── [100K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20160929-233411.png
+│       ├── [ 96K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161002-171450.png
+│       ├── [115K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161009-003146.png
+│       ├── [189K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161018-000537.png
+│       ├── [607K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161106-034316.png
+│       ├── [183K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161109-203640.png
+│       ├── [214K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161109-211926.png
+│       ├── [ 99K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161116-001217.png
+│       ├── [327K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161116-084823.png
+│       ├── [633K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161120-102831.png
+│       ├── [1.1M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161120-103006.png
+│       ├── [138K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161120-103010.png
+│       ├── [319K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161120-103020.png
+│       ├── [292K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161128-003827.png
+│       ├── [126K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161224-223706.png
+│       ├── [1.2M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161226-200313.png
+│       ├── [124K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161229-195202.png
+│       ├── [274K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161230-060008.png
+│       ├── [ 96K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161230-060016.png
+│       ├── [125K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161230-060026.png
+│       ├── [119K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161230-060034.png
+│       ├── [153K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161230-060039.png
+│       ├── [134K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161230-060042.png
+│       ├── [2.0M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161230-211057.png
+│       ├── [1.2M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161231-165825.png
+│       ├── [936K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161231-165926.png
+│       ├── [558K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161231-165958.png
+│       ├── [1.3M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161231-170003.png
+│       ├── [1.2M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161231-170007.png
+│       ├── [1.0M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161231-170016.png
+│       ├── [1.4M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161231-170036.png
+│       ├── [1.2M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20161231-170041.png
+│       ├── [1.2M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170103-215234.png
+│       ├── [888K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-021751.png
+│       ├── [761K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-021755.png
+│       ├── [796K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-021833.png
+│       ├── [816K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-021836.png
+│       ├── [865K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-021841.png
+│       ├── [846K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-021845.png
+│       ├── [765K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-021848.png
+│       ├── [869K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-021856.png
+│       ├── [991K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-021904.png
+│       ├── [964K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-022116.png
+│       ├── [823K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-022120.png
+│       ├── [733K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-022125.png
+│       ├── [960K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-022128.png
+│       ├── [994K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-022131.png
+│       ├── [888K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-022136.png
+│       ├── [1013K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-022140.png
+│       ├── [988K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170108-022143.png
+│       ├── [1.6M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170111-111655.png
+│       ├── [1.6M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170111-111756.png
+│       ├── [1.6M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170111-111802.png
+│       ├── [824K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170111-194847.png
+│       ├── [1.1M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170113-133058.png
+│       ├── [236K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170119-030406.png
+│       ├── [206K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170119-030454.png
+│       ├── [242K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170119-030505.png
+│       ├── [274K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170127-225524.png
+│       ├── [674K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170129-005627.png
+│       ├── [204K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170129-233044.png
+│       ├── [ 75K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-074109.png
+│       ├── [233K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-074116.png
+│       ├── [238K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-074118.png
+│       ├── [230K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-074120.png
+│       ├── [194K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-074125.png
+│       ├── [193K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-074129.png
+│       ├── [205K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-074134.png
+│       ├── [200K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-074137.png
+│       ├── [184K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-074141.png
+│       ├── [590K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-123101.png
+│       ├── [ 60K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-222333.png
+│       ├── [227K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-222349.png
+│       ├── [229K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-222350.png
+│       ├── [221K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-222352.png
+│       ├── [188K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-222402.png
+│       ├── [188K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-222406.png
+│       ├── [203K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-222410.png
+│       ├── [203K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-222414.png
+│       ├── [180K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170203-222418.png
+│       ├── [3.2M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170204-153244.png
+│       ├── [ 60K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170207-000638.png
+│       ├── [230K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170207-000656.png
+│       ├── [234K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170207-000657.png
+│       ├── [224K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170207-000704.png
+│       ├── [192K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170207-000712.png
+│       ├── [193K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170207-000715.png
+│       ├── [202K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170207-000720.png
+│       ├── [206K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170207-000724.png
+│       ├── [196K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170207-000728.png
+│       ├── [550K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170207-001316.png
+│       ├── [ 52K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170208-000130.png
+│       ├── [208K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170208-000140.png
+│       ├── [214K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170208-000142.png
+│       ├── [187K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170208-000148.png
+│       ├── [188K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170208-000153.png
+│       ├── [199K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170208-000158.png
+│       ├── [203K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170208-000203.png
+│       ├── [1.1M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170222-013032.png
+│       ├── [1.1M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170222-013036.png
+│       ├── [626K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170222-013039.png
+│       ├── [1.1M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170222-013042.png
+│       ├── [1.0M]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170222-013050.png
+│       ├── [873K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170222-013053.png
+│       ├── [1021K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170222-013055.png
+│       ├── [672K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170222-013059.png
+│       ├── [608K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170222-013102.png
+│       ├── [447K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170222-013104.png
+│       ├── [805K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170222-013107.png
+│       ├── [998K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170222-013110.png
+│       └── [997K]  sigr162a.sigr161z.170330.16,8G/bilder/Screenshots/Screenshot_20170222-013113.png
+├── [ 158]  sigr162a.sigr161z.170330.16,8G/callRecordsApp
+│   ├── [7.6K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/0068227047_2016_10_25_23_09_35.3gp
+│   ├── [ 61K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/04300_2016_10_25_23_12_59.3gp
+│   ├── [1010K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/04300_2016_10_26_12_48_27.3gp
+│   ├── [359K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/06160_2016_10_26_13_03_11.3gp
+│   ├── [139K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/06160_2016_10_27_15_03_51.3gp
+│   ├── [ 11K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/180_2016_10_25_23_07_57.3gp
+│   ├── [ 30K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/1881_2016_10_20_00_33_07.3gp
+│   ├── [ 60K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/21956376_2016_12_20_16_36_57.3gp
+│   ├── [ 31K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/21956376_2016_12_20_16_40_04.3gp
+│   ├── [1008]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/21956376_2016_12_20_17_01_05.3gp
+│   ├── [957K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/21956376_2016_12_21_12_47_13.3gp
+│   ├── [ 16K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/23291700_2016_11_17_19_14_49.3gp
+│   ├── [121K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/35692212_2016_10_19_14_02_34.3gp
+│   ├── [378K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/45602400_2016_10_22_12_22_57.3gp
+│   ├── [322K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/45602400_2016_10_28_15_55_27.3gp
+│   ├── [ 54K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/45602400_2016_11_04_12_22_07.3gp
+│   ├── [ 95K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/45602400_2016_11_18_15_42_09.3gp
+│   ├── [ 29K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/45602400_2016_11_30_11_13_07.3gp
+│   ├── [ 67K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/45602400_2016_12_01_14_06_36.3gp
+│   ├── [ 26K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/45602400_2016_12_01_14_24_13.3gp
+│   ├── [ 15K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/45602400_2016_12_05_19_22_18.3gp
+│   ├── [147K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/45602400_2016_12_14_17_16_27.3gp
+│   ├── [121K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/45602400_2017_01_01_17_01_53.3gp
+│   ├── [142K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/45602400_2017_01_06_15_26_50.3gp
+│   ├── [2.6M]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/55553333_2016_11_01_12_30_24.3gp
+│   ├── [ 69K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/62782757_2016_12_30_15_57_15.3gp
+│   ├── [ 79K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/75015070_2016_10_25_14_07_27.3gp
+│   ├── [129K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/75029400_2016_11_16_16_57_09.3gp
+│   ├── [ 27K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/75029400_2016_11_26_14_52_09.3gp
+│   ├── [150K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/75029400_2017_01_13_17_20_28.3gp
+│   ├── [ 25K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/80045353_2017_01_28_09_56_53.3gp
+│   ├── [ 53K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/91308621_2016_11_16_11_30_27.3gp
+│   ├── [125K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/91308621_2016_11_16_16_47_53.3gp
+│   ├── [ 37K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/91308621_2016_12_01_18_06_29.3gp
+│   ├── [353K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/91308621_2017_01_12_22_03_39.3gp
+│   ├── [534K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/91308621_2017_01_14_13_16_35.3gp
+│   ├── [204K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/93023795_2016_11_30_12_31_34.3gp
+│   ├── [239K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/95803261_2016_12_31_12_59_51.3gp
+│   ├── [ 83K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/95803261_2016_12_31_14_29_13.3gp
+│   ├── [ 12K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/97259093_2017_01_25_16_00_57.3gp
+│   ├── [ 39K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/97402801_2016_10_18_19_26_55.3gp
+│   ├── [398K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/97402801_2016_10_18_22_38_08.3gp
+│   ├── [ 28K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/97402801_2016_10_20_17_49_56.3gp
+│   ├── [331K]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/99417420_2017_01_25_16_03_14.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/.nomedia
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1005690652.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-104032185.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1087963150.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1089868716.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1098122916.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1171869995.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1175461314.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1176402208.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1179168898.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1179646284.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1184241367.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1233000471.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record124097718.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1279818536.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1312308940.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1316984863.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1333568099.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1345475598.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1360328786.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1368072771.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-138206138.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1397636997.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1404585473.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1418586159.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1498286042.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1526867002.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1528972159.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-154321943.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record156998251.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record157264483.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1598704005.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1610109405.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1616092737.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1623364179.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1650017343.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1674882227.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1681722240.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1709653199.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1724843155.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1730695141.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1742687631.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1773191990.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1812956059.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1825118785.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1836393513.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1837200530.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-185372858.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1854906371.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1885763146.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-1903197223.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1943655611.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record1980900908.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record2044202800.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record2053253555.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record2055829993.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record2081225361.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-2086202643.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-2090292457.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record2103933112.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-2111955628.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record2112956380.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record211558416.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record2129207293.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-2137729640.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-226452976.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record230476184.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-240337390.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record240652015.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record266045797.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record294007200.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-297192528.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record304300330.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record334044629.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-345665976.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record345882640.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record362246905.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-392167772.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-418456125.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-452643414.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record475204398.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record482015470.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record485716027.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record502791826.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record504546106.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-532221159.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-5505410.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record576867788.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record579674811.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record603102142.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-619944165.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-634814807.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record665216140.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record66864165.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-687882058.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record713885021.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record731732167.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-746161438.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record782366355.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record789463884.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-817283781.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record823360240.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record846043693.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-846126611.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record894573349.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record895211413.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-905290035.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-908247909.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-915036547.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-945274174.3gp
+│   ├── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record-948786343.3gp
+│   └── [   0]  sigr162a.sigr161z.170330.16,8G/callRecordsApp/record95195656.3gp
+├── [   3]  sigr162a.sigr161z.170330.16,8G/DCIM
+│   └── [ 430]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera
+│       ├── [  32]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb
+│       │   ├── [ 64K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/-10012838781483394205.dthumb.tmp
+│       │   ├── [ 77K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/-10305197081482691595.dthumb.tmp
+│       │   ├── [116K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/-11130299191483394168.dthumb.tmp
+│       │   ├── [157K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/11362577631480249765.dthumb.tmp
+│       │   ├── [122K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/-11813392601484671408.dthumb.tmp
+│       │   ├── [139K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/11971355561484934296.dthumb.tmp
+│       │   ├── [ 66K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/12224886701482692902.dthumb
+│       │   ├── [153K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/-12716129641485375925.dthumb.tmp
+│       │   ├── [488K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/14817105081479717068.dthumb
+│       │   ├── [255K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/1482741781476734997.dthumb
+│       │   ├── [ 82K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/-16534581771486159680.dthumb.tmp
+│       │   ├── [108K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/-1894519061484578387.dthumb.tmp
+│       │   ├── [123K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/-19257597781482866257.dthumb
+│       │   ├── [467K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/19637926251482340768.dthumb
+│       │   ├── [126K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/19644033011483224505.dthumb.tmp
+│       │   ├── [305K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/19977208281482268845.dthumb
+│       │   ├── [438K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/20454527391482116798.dthumb
+│       │   ├── [474K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/20766517211481474488.dthumb
+│       │   ├── [186K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/21393295161481479714.dthumb
+│       │   ├── [  32]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/-3240804181485376008.dthumb.tmp
+│       │   ├── [  32]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/-3474163541482020894.dthumb.tmp
+│       │   ├── [137K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/-4709439401483795584.dthumb.tmp
+│       │   ├── [490K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/6254803331479716527.dthumb
+│       │   ├── [346K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/-6368926981485533724.dthumb
+│       │   ├── [ 37K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/6420022111483393049.dthumb
+│       │   ├── [121K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/6918723451483393061.dthumb.tmp
+│       │   ├── [426K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/-7890587221482606099.dthumb
+│       │   ├── [5.2K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/-7955456011485190673.dthumb.tmp
+│       │   ├── [143K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/9058455681483224629.dthumb.tmp
+│       │   └── [357K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/.dthumb/-9104919651481493308.dthumb
+│       ├── [4.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20160921_144548.jpg
+│       ├── [2.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20160926_174806.jpg
+│       ├── [5.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20160927_205903.jpg
+│       ├── [2.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20160930_034335.jpg
+│       ├── [1.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20160930_045449.jpg
+│       ├── [2.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20160930_045608.jpg
+│       ├── [3.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20160930_144509.jpg
+│       ├── [3.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161002_194814.jpg
+│       ├── [3.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161005_193618.jpg
+│       ├── [5.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161005_203024.jpg
+│       ├── [2.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161005_213904.jpg
+│       ├── [5.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161009_002943.jpg
+│       ├── [4.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161009_003028.jpg
+│       ├── [5.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161009_003050.jpg
+│       ├── [5.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161010_192640.jpg
+│       ├── [5.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161010_192701.jpg
+│       ├── [4.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161025_124204.jpg
+│       ├── [4.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161101_163703.jpg
+│       ├── [3.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161104_160048.jpg
+│       ├── [5.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161109_144317.jpg
+│       ├── [5.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161109_144319.jpg
+│       ├── [5.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161109_144331.jpg
+│       ├── [5.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161109_144332.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161111_154414.jpg
+│       ├── [3.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161111_154452.jpg
+│       ├── [3.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161111_154506.jpg
+│       ├── [3.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161111_154516.jpg
+│       ├── [3.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161113_134707.jpg
+│       ├── [3.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161117_214352.jpg
+│       ├── [4.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161119_164304.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161119_200821.jpg
+│       ├── [4.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161120_001248.jpg
+│       ├── [2.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161120_144350.jpg
+│       ├── [3.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161120_144351.jpg
+│       ├── [2.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161120_144407.jpg
+│       ├── [3.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161120_155757.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161121_161121.jpg
+│       ├── [5.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161122_161912.jpg
+│       ├── [4.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161122_161933.jpg
+│       ├── [4.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161122_161947.jpg
+│       ├── [5.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161122_162004.jpg
+│       ├── [4.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161122_162014.jpg
+│       ├── [4.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161122_162032.jpg
+│       ├── [5.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161122_162046.jpg
+│       ├── [4.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161122_162054.jpg
+│       ├── [2.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161122_162107.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161123_202201.jpg
+│       ├── [5.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161124_211300.jpg
+│       ├── [5.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161125_024820.jpg
+│       ├── [6.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161125_024901.jpg
+│       ├── [5.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161125_024946.jpg
+│       ├── [7.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161125_025149.jpg
+│       ├── [6.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161126_030518.jpg
+│       ├── [4.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161126_030532.jpg
+│       ├── [6.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161126_030816.jpg
+│       ├── [3.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161126_155212.jpg
+│       ├── [2.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161126_161502.jpg
+│       ├── [2.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161126_161542.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161127_205704.jpg
+│       ├── [1.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161127_213228.jpg
+│       ├── [4.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161128_012330.jpg
+│       ├── [4.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161128_162729.jpg
+│       ├── [4.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161128_193310.jpg
+│       ├── [2.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161129_175136.jpg
+│       ├── [2.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161201_163059.jpg
+│       ├── [7.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161206_231041.jpg
+│       ├── [4.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161209_234829.jpg
+│       ├── [3.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161210_002924.jpg
+│       ├── [4.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161211_183727.jpg
+│       ├── [2.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161211_184422.jpg
+│       ├── [3.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161211_184901.jpg
+│       ├── [3.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161211_184928.jpg
+│       ├── [3.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161211_184957.jpg
+│       ├── [3.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161211_185012.jpg
+│       ├── [5.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161211_225646.jpg
+│       ├── [4.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161211_231150.jpg
+│       ├── [3.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161212_170826.jpg
+│       ├── [2.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161212_170843.jpg
+│       ├── [2.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161212_170905.jpg
+│       ├── [3.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161214_111029.jpg
+│       ├── [3.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161214_111037.jpg
+│       ├── [3.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161214_111231.jpg
+│       ├── [3.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161214_111630.jpg
+│       ├── [3.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161214_111632.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161214_112014.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161214_112017.jpg
+│       ├── [4.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161214_123716.jpg
+│       ├── [4.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161214_123727.jpg
+│       ├── [5.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161214_134641.jpg
+│       ├── [3.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161215_174554.jpg
+│       ├── [2.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161215_174613.jpg
+│       ├── [3.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161215_174721.jpg
+│       ├── [4.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161215_180156.jpg
+│       ├── [3.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_200829.jpg
+│       ├── [4.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_200838.jpg
+│       ├── [4.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_200845.jpg
+│       ├── [4.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_200911.jpg
+│       ├── [5.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_200938.jpg
+│       ├── [5.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_200956.jpg
+│       ├── [4.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201044.jpg
+│       ├── [5.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201047.jpg
+│       ├── [5.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201049.jpg
+│       ├── [5.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201055.jpg
+│       ├── [4.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201056.jpg
+│       ├── [4.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201057.jpg
+│       ├── [4.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201059.jpg
+│       ├── [5.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201107.jpg
+│       ├── [4.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201116.jpg
+│       ├── [5.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201123.jpg
+│       ├── [4.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201136.jpg
+│       ├── [4.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201234.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201336.jpg
+│       ├── [4.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201339.jpg
+│       ├── [5.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201423.jpg
+│       ├── [4.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_201631.jpg
+│       ├── [4.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_204042.jpg
+│       ├── [4.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_204044.jpg
+│       ├── [7.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_204728.jpg
+│       ├── [4.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_204737.jpg
+│       ├── [6.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_204740.jpg
+│       ├── [4.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_204747.jpg
+│       ├── [5.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_204749.jpg
+│       ├── [4.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_205205.jpg
+│       ├── [5.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_205206.jpg
+│       ├── [2.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_205231.jpg
+│       ├── [4.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_205237.jpg
+│       ├── [2.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_230339.jpg
+│       ├── [184K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161216_233157.jpg
+│       ├── [6.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161217_002315.jpg
+│       ├── [4.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161217_030901.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161217_171940.jpg
+│       ├── [4.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161218_002126.jpg
+│       ├── [2.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161218_012733.jpg
+│       ├── [2.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161218_012745.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161218_152207.jpg
+│       ├── [2.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_040732.jpg
+│       ├── [2.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160225.jpg
+│       ├── [2.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160227.jpg
+│       ├── [5.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160229.jpg
+│       ├── [2.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160231.jpg
+│       ├── [4.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160253.jpg
+│       ├── [6.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160254.jpg
+│       ├── [5.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160256.jpg
+│       ├── [5.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160257.jpg
+│       ├── [6.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160258.jpg
+│       ├── [4.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160259.jpg
+│       ├── [6.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160300.jpg
+│       ├── [5.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160302.jpg
+│       ├── [5.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160305.jpg
+│       ├── [4.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160306.jpg
+│       ├── [4.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160307.jpg
+│       ├── [4.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160313.jpg
+│       ├── [6.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160315.jpg
+│       ├── [5.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160317_1.jpg
+│       ├── [6.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160317.jpg
+│       ├── [3.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160330.jpg
+│       ├── [5.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160331.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160332.jpg
+│       ├── [3.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_160334.jpg
+│       ├── [4.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_175346.jpg
+│       ├── [4.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_175400.jpg
+│       ├── [3.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_194440.jpg
+│       ├── [3.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161219_194539.jpg
+│       ├── [2.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161220_142230.jpg
+│       ├── [3.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161220_145423.jpg
+│       ├── [2.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161220_221934.jpg
+│       ├── [2.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161221_154532.jpg
+│       ├── [3.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161221_163748.jpg
+│       ├── [7.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161221_231605.jpg
+│       ├── [4.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161222_162409.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161222_175340.jpg
+│       ├── [3.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161222_180819.jpg
+│       ├── [3.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161222_180820.jpg
+│       ├── [4.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161222_180901.jpg
+│       ├── [8.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161223_161659.jpg
+│       ├── [3.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161223_224406.jpg
+│       ├── [3.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161224_154355.jpg
+│       ├── [3.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161224_154359.jpg
+│       ├── [4.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161224_194312.jpg
+│       ├── [3.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161224_195938.jpg
+│       ├── [3.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161224_202153.jpg
+│       ├── [4.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161229_020946.jpg
+│       ├── [1.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161229_021019.jpg
+│       ├── [3.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161230_201355.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161231_204036.jpg
+│       ├── [3.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161231_204109.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161231_213344.jpg
+│       ├── [3.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161231_213346.jpg
+│       ├── [2.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161231_213403.jpg
+│       ├── [2.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161231_214021.jpg
+│       ├── [2.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161231_214031.jpg
+│       ├── [2.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20161231_214032.jpg
+│       ├── [5.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170102_222747.jpg
+│       ├── [3.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170102_222759.jpg
+│       ├── [4.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170102_223725.jpg
+│       ├── [4.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170102_224233.jpg
+│       ├── [7.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170108_135021.jpg
+│       ├── [2.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170109_224513.jpg
+│       ├── [4.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170109_224521.jpg
+│       ├── [2.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170109_224530.jpg
+│       ├── [4.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170109_224535.jpg
+│       ├── [5.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170109_224539.jpg
+│       ├── [4.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170109_224554.jpg
+│       ├── [4.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170109_224556.jpg
+│       ├── [4.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170109_224559.jpg
+│       ├── [4.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170110_140716.jpg
+│       ├── [4.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170110_141628.jpg
+│       ├── [3.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170110_144427.jpg
+│       ├── [3.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170110_175315.jpg
+│       ├── [4.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170111_164015.jpg
+│       ├── [3.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170111_165632.jpg
+│       ├── [3.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170113_180455.jpg
+│       ├── [3.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170114_125438.jpg
+│       ├── [3.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170114_125514.jpg
+│       ├── [3.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170114_125558.jpg
+│       ├── [3.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170114_125609.jpg
+│       ├── [4.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170115_143305.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170117_174505.jpg
+│       ├── [3.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170117_181458.jpg
+│       ├── [5.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170118_204055.jpg
+│       ├── [3.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170118_213834.jpg
+│       ├── [6.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170119_212355.jpg
+│       ├── [3.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170119_212501.jpg
+│       ├── [4.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170119_212507.jpg
+│       ├── [4.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170119_212516.jpg
+│       ├── [4.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170119_212539.jpg
+│       ├── [3.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170120_121947.jpg
+│       ├── [2.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170120_141446.jpg
+│       ├── [8.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170127_150249.jpg
+│       ├── [4.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170127_153134.jpg
+│       ├── [3.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170128_144203.jpg
+│       ├── [4.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170130_182222.jpg
+│       ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170131_173711.jpg
+│       ├── [4.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170201_182806.jpg
+│       ├── [4.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170201_183247.jpg
+│       ├── [3.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170202_104738.jpg
+│       ├── [3.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170202_104740.jpg
+│       ├── [2.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170202_104804.jpg
+│       ├── [2.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170202_104808.jpg
+│       ├── [3.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170202_104827.jpg
+│       ├── [2.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170202_104855.jpg
+│       ├── [3.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170202_104912.jpg
+│       ├── [3.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170202_104922.jpg
+│       ├── [3.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170202_105020.jpg
+│       ├── [4.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170202_105107.jpg
+│       ├── [5.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170202_214231.jpg
+│       ├── [5.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170202_214248.jpg
+│       ├── [3.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170203_165535.jpg
+│       ├── [2.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170203_165548.jpg
+│       ├── [4.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170205_133838.jpg
+│       ├── [2.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170205_171043.jpg
+│       ├── [4.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170205_171123.jpg
+│       ├── [3.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170205_172354.jpg
+│       ├── [3.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/IMG_20170205_172356.jpg
+│       ├── [463K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/QuickCam_1474643725993.mp4
+│       ├── [195K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/QuickCam_1475953731316.mp4
+│       ├── [ 25M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/TRIM_20161211_174127.mp4
+│       ├── [ 29M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/TRIM_20161220_203421.mp4
+│       ├── [ 12M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/TRIM_20161220_213144.mp4
+│       ├── [ 16M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/TRIM_20170117_174327.mp4
+│       ├── [7.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/TRIM_20170127_171523.mp4
+│       ├── [ 69M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/TRIM_20170131_160715.mp4
+│       ├── [ 38M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/TRIM_20170207_131743.mp4
+│       ├── [ 56M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/TRIM_20170207_134724.mp4
+│       ├── [ 42M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20160923_180340.3gp
+│       ├── [ 49M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20160923_180640.3gp
+│       ├── [1.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20160925_221522.3gp
+│       ├── [ 37M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20160925_221559.3gp
+│       ├── [ 87M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20160925_222623.3gp
+│       ├── [203M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20160925_224702.3gp
+│       ├── [411M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20160925_225435.3gp
+│       ├── [345M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20160925_231527.3gp
+│       ├── [572M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20160925_234109.3gp
+│       ├── [ 14M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161005_200917.3gp
+│       ├── [ 32M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161005_201851.3gp
+│       ├── [ 43M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161005_212428.3gp
+│       ├── [6.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161005_222446.3gp
+│       ├── [414K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161005_222451.3gp
+│       ├── [ 21M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161005_222536.3gp
+│       ├── [ 27M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161005_223115.3gp
+│       ├── [5.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161008_211220.3gp
+│       ├── [ 10M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161008_213727.3gp
+│       ├── [ 22M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161010_202329.3gp
+│       ├── [9.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161017_214630.3gp
+│       ├── [ 15M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161017_214655.3gp
+│       ├── [8.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161017_215415.3gp
+│       ├── [ 16M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161017_220114.3gp
+│       ├── [ 26M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161017_220957.3gp
+│       ├── [6.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161020_225914.3gp
+│       ├── [ 91M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161105_215533.3gp
+│       ├── [5.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161109_144345.3gp
+│       ├── [ 15M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161109_144408.3gp
+│       ├── [ 21M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161109_144707.3gp
+│       ├── [4.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161111_154501.3gp
+│       ├── [ 84M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161116_205606.3gp
+│       ├── [5.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161119_195851.3gp
+│       ├── [1.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161119_200826.3gp
+│       ├── [110K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161119_200830.3gp
+│       ├── [ 13M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161119_200847.3gp
+│       ├── [ 80M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161119_201303.3gp
+│       ├── [ 93M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161119_202127.3gp
+│       ├── [ 94M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161119_203857.3gp
+│       ├── [3.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161119_203909.3gp
+│       ├── [ 96M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161119_204040.3gp
+│       ├── [ 58M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161119_204342.3gp
+│       ├── [ 73M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161119_204458.3gp
+│       ├── [126M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161119_204657.3gp
+│       ├── [9.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161120_205946.3gp
+│       ├── [ 66M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161121_092207.3gp
+│       ├── [178M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161121_093108.3gp
+│       ├── [ 83M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161121_192118.3gp
+│       ├── [ 10M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161127_132925.3gp
+│       ├── [ 14M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161128_012513.3gp
+│       ├── [114M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161128_220719.3gp
+│       ├── [ 13M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161128_221611.3gp
+│       ├── [119M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161128_222409.3gp
+│       ├── [4.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161128_230953.3gp
+│       ├── [1.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161128_231017.3gp
+│       ├── [907K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161128_233945.3gp
+│       ├── [ 23M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161129_165443.3gp
+│       ├── [4.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161129_172137.3gp
+│       ├── [ 17M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161129_173102.3gp
+│       ├── [9.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161201_163111.3gp
+│       ├── [9.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161201_200517.3gp
+│       ├── [ 11M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161201_200808.3gp
+│       ├── [ 14M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161201_201515.3gp
+│       ├── [8.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161205_191756.3gp
+│       ├── [182K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161207_040319.3gp
+│       ├── [8.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161210_001741.3gp
+│       ├── [5.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161211_153955.3gp
+│       ├── [ 27M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161211_154058.3gp
+│       ├── [7.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161211_190155.3gp
+│       ├── [7.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161211_190241.3gp
+│       ├── [6.6M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161211_225508.3gp
+│       ├── [ 17M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161216_233158.3gp
+│       ├── [1.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161217_030035.3gp
+│       ├── [5.0M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161217_210325.3gp
+│       ├── [168M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161217_211145.3gp
+│       ├── [ 38M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161218_012619.3gp
+│       ├── [ 15M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161218_012814.3gp
+│       ├── [ 37M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161218_151931.3gp
+│       ├── [ 58M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161219_040639.3gp
+│       ├── [ 17M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161220_003606.3gp
+│       ├── [ 33M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161220_010247.3gp
+│       ├── [ 38M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161220_203331.3gp
+│       ├── [ 12M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161220_204400.3gp
+│       ├── [ 34M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161220_212251.3gp
+│       ├── [ 11M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161220_212749.3gp
+│       ├── [ 22M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161220_212814.3gp
+│       ├── [ 19M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161220_212835.3gp
+│       ├── [ 41M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161220_214650.3gp
+│       ├── [ 47M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161220_215856.3gp
+│       ├── [ 73M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161220_222045.3gp
+│       ├── [161M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161220_224518.3gp
+│       ├── [ 47M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161221_133648.3gp
+│       ├── [110M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161221_180538.3gp
+│       ├── [ 99M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161221_180713.3gp
+│       ├── [ 89M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161221_180949.3gp
+│       ├── [104M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161221_181627.3gp
+│       ├── [140M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161221_181928.3gp
+│       ├── [125M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161221_182217.3gp
+│       ├── [7.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161222_163013.3gp
+│       ├── [ 22M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161223_152403.3gp
+│       ├── [124M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161223_220552.3gp
+│       ├── [ 20M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161223_223145.3gp
+│       ├── [7.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161224_150727.3gp
+│       ├── [ 16M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161224_154416.3gp
+│       ├── [ 52M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161224_200139.3gp
+│       ├── [3.8M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161225_194635.3gp
+│       ├── [4.1M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161225_200822.3gp
+│       ├── [652K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161227_201737.3gp
+│       ├── [ 19M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161231_000843.3gp
+│       ├── [342M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161231_002002.3gp
+│       ├── [614M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161231_003439.3gp
+│       ├── [ 47M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161231_165156.3gp
+│       ├── [ 97M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161231_171253.3gp
+│       ├── [230M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161231_171643.3gp
+│       ├── [ 20M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161231_171748.3gp
+│       ├── [896K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161231_173018.3gp
+│       ├── [ 34M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161231_173212.3gp
+│       ├── [ 37M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161231_211228.3gp
+│       ├── [ 46M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161231_234825.3gp
+│       ├── [ 35M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20161231_235029.3gp
+│       ├── [521K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170102_223729.3gp
+│       ├── [9.3M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170102_223741.3gp
+│       ├── [5.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170102_224250.3gp
+│       ├── [6.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170102_225608.3gp
+│       ├── [ 26M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170102_225645.3gp
+│       ├── [ 46M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170106_170013.3gp
+│       ├── [ 14M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170106_170904.3gp
+│       ├── [ 14M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170107_142624.3gp
+│       ├── [ 45M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170116_155307.3gp
+│       ├── [ 10M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170120_135643.3gp
+│       ├── [ 19M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170120_160832.3gp
+│       ├── [ 21M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170120_184047.3gp
+│       ├── [148M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170120_184327.3gp
+│       ├── [ 73M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170120_184456.3gp
+│       ├── [ 17M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170122_141415.3gp
+│       ├── [7.4M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170123_122852.3gp
+│       ├── [9.7M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170123_131517.3gp
+│       ├── [ 19M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170123_175753.3gp
+│       ├── [ 42M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170125_132520.3gp
+│       ├── [ 21M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170125_170628.3gp
+│       ├── [ 21M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170127_115109.3gp
+│       ├── [ 41M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170127_162517.3gp
+│       ├── [ 24M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170131_125200.3gp
+│       ├── [158K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170131_160433.3gp
+│       ├── [ 73M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170131_160552.3gp
+│       ├── [ 15M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170201_125936.3gp
+│       ├── [785K]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170201_205449.3gp
+│       ├── [ 28M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170201_220246.3gp
+│       ├── [ 17M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170203_131519.3gp
+│       ├── [ 50M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170203_180512.3gp
+│       ├── [ 39M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170203_181438.3gp
+│       ├── [ 16M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170203_230800.3gp
+│       ├── [ 25M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170205_140602.3gp
+│       ├── [121M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170205_141442.3gp
+│       ├── [ 23M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170205_141617.3gp
+│       ├── [230M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170205_142303.3gp
+│       ├── [ 79M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170205_143033.3gp
+│       ├── [6.2M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170205_170750.3gp
+│       ├── [2.5M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170205_172402.3gp
+│       ├── [8.9M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170205_172415.3gp
+│       ├── [ 16M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170206_161220.3gp
+│       ├── [ 22M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170206_162204.3gp
+│       ├── [ 61M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170207_134421.3gp
+│       └── [ 59M]  sigr162a.sigr161z.170330.16,8G/DCIM/Camera/VID_20170207_134657.3gp
+├── [   3]  sigr162a.sigr161z.170330.16,8G/Documents
+│   └── [ 12K]  sigr162a.sigr161z.170330.16,8G/Documents/Bok.xlsx
+├── [   9]  sigr162a.sigr161z.170330.16,8G/nedlastinger
+│   ├── [   5]  sigr162a.sigr161z.170330.16,8G/nedlastinger/170129 discord norske fylker
+│   │   ├── [1.0M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/170129 discord norske fylker/IMG_0639.mov
+│   │   ├── [979K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/170129 discord norske fylker/received_463454400503301.mp4
+│   │   └── [943K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/170129 discord norske fylker/vega_marie_aa2.mov
+│   ├── [  64]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11
+│   │   ├── [550K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478267626920.jpg
+│   │   ├── [113K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478374889409.jpg
+│   │   ├── [392K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478375302247.jpg
+│   │   ├── [230K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478411810447.jpg
+│   │   ├── [375K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478411848365.jpg
+│   │   ├── [226K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478411896201.jpg
+│   │   ├── [242K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478458486380.jpg
+│   │   ├── [1.0M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478465871111.jpg
+│   │   ├── [955K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478467088645.jpg
+│   │   ├── [1.3M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478467271319.jpg
+│   │   ├── [2.3M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478467380985.jpg
+│   │   ├── [2.5M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478468137362.webm
+│   │   ├── [103K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478468445277.jpg
+│   │   ├── [1.1M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478469130564.jpg
+│   │   ├── [322K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478470332488(2).jpg
+│   │   ├── [322K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478470332488.jpg
+│   │   ├── [ 80K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478470524998.jpg
+│   │   ├── [956K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478470827435.jpg
+│   │   ├── [2.8M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478471162688.jpg
+│   │   ├── [2.8M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478471273598.jpg
+│   │   ├── [ 97K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478473453072.jpg
+│   │   ├── [2.4M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478473568666.png
+│   │   ├── [1.8M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478473642731.jpg
+│   │   ├── [254K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1478474008123.jpg
+│   │   ├── [ 12K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/161022 kontoutskrift hverdag.pdf
+│   │   ├── [9.6K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/161022 kontoutskrift kort.pdf
+│   │   ├── [9.6K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/161022 kontoutskrift langtidssparing.pdf
+│   │   ├── [9.6K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/161022 kontoutskrift mikrokreditt.pdf
+│   │   ├── [9.6K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/161022 kontoutskrift sparing.pdf
+│   │   ├── [380K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/1.pdf
+│   │   ├── [3.0K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/2811fb90a1302h
+│   │   ├── [ 36K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/79951742.pdf
+│   │   ├── [417K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/84150do001_201415.xls
+│   │   ├── [ 84K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/Affidavit of Solvency.pdf
+│   │   ├── [270K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/amateur_sexy_girl_00990.jpg
+│   │   ├── [471K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/annual_data.pdf
+│   │   ├── [634K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/Belize.pdf
+│   │   ├── [180K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/bitcoin(2).pdf
+│   │   ├── [180K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/bitcoin.pdf
+│   │   ├── [361K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/business-terms-for-securities-trading-eng.pdf
+│   │   ├── [ 73K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/C&C Cook Islands LLCs - Certainty.pdf
+│   │   ├── [102K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/econp2p03.pdf
+│   │   ├── [169K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/Girlfriends-Nudists-Lake-Tour-01.jpg
+│   │   ├── [954K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/Interim presentation Q3 2016(2).pdf
+│   │   ├── [954K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/Interim presentation Q3 2016(3).pdf
+│   │   ├── [954K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/Interim presentation Q3 2016.pdf
+│   │   ├── [ 33K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/mcs-2016-coppe.pdf
+│   │   ├── [4.0M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/mcs2016.pdf
+│   │   ├── [500K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/mcsapp2016.pdf
+│   │   ├── [220K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/mis-201607-coppe.xlsx
+│   │   ├── [ 68K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/MISC Protector Article 2005.pdf
+│   │   ├── [394K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/myb1-2014-coppe(2).pdf
+│   │   ├── [394K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/myb1-2014-coppe.pdf
+│   │   ├── [ 46K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/my-sister-naked-selfies.jpg
+│   │   ├── [155K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/New-Photos-Teenage-Nudists.jpg
+│   │   ├── [ 83K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/New-Pictures-of-Young-Nude-on-Nude-Beaches-and-other-Places.jpg
+│   │   ├── [ 77K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/Ora LLC Order Form.pdf
+│   │   ├── [133K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/Ora Trust Order Form 2016.pdf
+│   │   ├── [128K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/Pictures-of-Young-Nudists-Family-Photos-and-Teenage-Nudists.jpg
+│   │   ├── [310K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/rules-bank_eng.pdf
+│   │   ├── [307K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/TC_NO_mypaysafecard_10_2013.pdf
+│   │   └── [839K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 11/zerocash-extended-20140518.pdf
+│   ├── [  23]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01
+│   │   ├── [1.3M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/161228 Svenn Ivar Grønmo Førerkort 1.PDF
+│   │   ├── [1.3M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/161228 Svenn Ivar Grønmo Førerkort 2.PDF
+│   │   ├── [125K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/170105 Svenn Ivar Grønmo Telefonregning.pdf
+│   │   ├── [10.0K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/2811fb90a1302h
+│   │   ├── [368K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/AD161216.pdf
+│   │   ├── [758K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/Automatic-Exchange-Financial-Account-Information-Common-Reporting-Standard.pdf
+│   │   ├── [ 47K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/boligsoeknadsskjema_220915.doc
+│   │   ├── [167K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/Conflicts of Interests Policy eToro (Europe) LTD.pdf
+│   │   ├── [242K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/factsheet-ab-gambak-no.pdf
+│   │   ├── [105K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/FP_AB_Gambak_NO.pdf
+│   │   ├── [579K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/historical-performance-measurement---1q-2015.pdf
+│   │   ├── [933K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/KrXTMfG3.pdf
+│   │   ├── [1.3M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/Manedsrapport-Holberg-Kreditt.pdf
+│   │   ├── [158K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/msci-norway-index-usd-net.pdf
+│   │   ├── [809K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/nou201520150012000dddpdfs.pdf
+│   │   ├── [3.6M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/nou201720170001000dddpdfs.pdf
+│   │   ├── [461K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/Rundskriv_24_2016.pdf
+│   │   ├── [390K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/Terms_and_Conditions_eToro.pdf
+│   │   ├── [312K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/tts_busstakster_2017.pdf
+│   │   ├── [ 71K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/Vedtekter for Folketrygdfondet_siste versjon.pdf
+│   │   └── [371K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/2016 12-01/WU161017.pdf
+│   ├── [   2]  sigr162a.sigr161z.170330.16,8G/nedlastinger/DDT-541 back restraint deca ass and slave Aya Miyazaki
+│   ├── [   3]  sigr162a.sigr161z.170330.16,8G/nedlastinger/Line of Beauty and Grace - A Documentary About Jock Sturges
+│   │   └── [   4]  sigr162a.sigr161z.170330.16,8G/nedlastinger/Line of Beauty and Grace - A Documentary About Jock Sturges/Line of Beauty and Grace - A Documentary About Jock Sturges
+│   │       ├── [957M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/Line of Beauty and Grace - A Documentary About Jock Sturges/Line of Beauty and Grace - A Documentary About Jock Sturges/Line of Beauty and Grace - A Documentary About Jock Sturges.avi
+│   │       └── [ 23K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/Line of Beauty and Grace - A Documentary About Jock Sturges/Line of Beauty and Grace - A Documentary About Jock Sturges/Line of Beauty and Grace - A Documentary About Jock Sturges.jpg
+│   ├── [  77]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls
+│   │   ├── [ 45K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/0xnHDoX.jpg
+│   │   ├── [ 64K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/1QFTe8Q.jpg
+│   │   ├── [365K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/1W5aCBi.jpg
+│   │   ├── [155K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/2mgNoCg.jpg
+│   │   ├── [196K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/2ZDAgVz.jpg
+│   │   ├── [1.3M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/3V6hMxL.jpg
+│   │   ├── [ 44K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/5Jjxl0O.jpg
+│   │   ├── [112K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/6gUviJ3.jpg
+│   │   ├── [132K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/6yB44pO.jpg
+│   │   ├── [281K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/ARH9LGN.jpg
+│   │   ├── [588K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/BJuEJwK.jpg
+│   │   ├── [125K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/cNaJD3e.jpg
+│   │   ├── [185K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/cOcrcKD.jpg
+│   │   ├── [ 42K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/D6RVhoD.jpg
+│   │   ├── [ 84K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/dtUhpF8.jpg
+│   │   ├── [695K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/eanyW4R.jpg
+│   │   ├── [511K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/esZ8MyH.jpg
+│   │   ├── [2.7M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/EuphoricUnsightlyIndianrhinoceros-mobile.mp4
+│   │   ├── [905K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/eyY20hP.jpg
+│   │   ├── [199K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/GvvP8OG.jpg
+│   │   ├── [196K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/jE2Fg3D.jpg
+│   │   ├── [184K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/jQn25bG.jpg
+│   │   ├── [ 78K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/JutogU1.jpg
+│   │   ├── [243K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/kyK8UXX.jpg
+│   │   ├── [120K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/lNnW2Dx.jpg
+│   │   ├── [ 85K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/LPmTpfk.jpg
+│   │   ├── [171K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/lT70zw8.jpg
+│   │   ├── [194K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/M4haNNx.jpg
+│   │   ├── [323K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/NUgKfG9.jpg
+│   │   ├── [359K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/Oi3uEHO.jpg
+│   │   ├── [ 89K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/OMxmcv5.jpg
+│   │   ├── [820K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/OrneryComplexAustralianfurseal-mobile.mp4
+│   │   ├── [ 51K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/oTFYwYI.jpg
+│   │   ├── [182K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/PhCyzYX.jpg
+│   │   ├── [193K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/pKlal2O.jpg
+│   │   ├── [109K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/PuGFhrj.jpg
+│   │   ├── [ 33K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/Q4lOh5a.jpg
+│   │   ├── [ 64K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/REayiBk.jpg
+│   │   ├── [173K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/rJpGVDx.jpg
+│   │   ├── [2.2M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/ScentedUnawareDartfrog-mobile.mp4
+│   │   ├── [408K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/sV6ymmV.jpg
+│   │   ├── [283K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qce3q.jpg
+│   │   ├── [147K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qdez7.jpg
+│   │   ├── [189K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qdfey.jpg
+│   │   ├── [123K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qdhsc.jpg
+│   │   ├── [152K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qeuyh.jpg
+│   │   ├── [141K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qfuks.jpg
+│   │   ├── [236K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qg1ol.jpg
+│   │   ├── [ 46K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qg2d9.jpg
+│   │   ├── [ 50K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qg2on.jpg
+│   │   ├── [ 26K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qg2sw.jpg
+│   │   ├── [ 47K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qg2zd.jpg
+│   │   ├── [303K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qg3xo.jpg
+│   │   ├── [ 36K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qg42d.jpg
+│   │   ├── [266K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qg5s2.jpg
+│   │   ├── [ 70K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qh4f5.jpg
+│   │   ├── [232K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/t3_5qjc15.jpg
+│   │   ├── [539K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/tIGkxbg.jpg
+│   │   ├── [113K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/u2SmTDl.jpg
+│   │   ├── [251K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/UcJChJ6.jpg
+│   │   ├── [317K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/uISrQ3T.jpg
+│   │   ├── [1.1M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/UnitedIncompatibleGharial-mobile.mp4
+│   │   ├── [119K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/UOg8fdU.jpg
+│   │   ├── [ 78K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/ura4CXK.jpg
+│   │   ├── [573K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/VDI6AHS.jpg
+│   │   ├── [135K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/VSBPJay.jpg
+│   │   ├── [325K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/wlD8CrG.jpg
+│   │   ├── [ 80K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/WO6AN.jpg
+│   │   ├── [143K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/xiTLK61.jpg
+│   │   ├── [ 32K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/XJVhaLc.jpg
+│   │   ├── [ 72K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/xJWM0ci.jpg
+│   │   ├── [ 68K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/yqHS202.jpg
+│   │   ├── [114K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/zh09dU4.jpg
+│   │   ├── [224K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/zOXmdd4.jpg
+│   │   └── [181K]  sigr162a.sigr161z.170330.16,8G/nedlastinger/reddit.com r RealGirls/ZsNl7xt.jpg
+│   └── [   3]  sigr162a.sigr161z.170330.16,8G/nedlastinger/TOP 40 Best of Family Therapy All Time (XXX Pack)
+│       └── [   7]  sigr162a.sigr161z.170330.16,8G/nedlastinger/TOP 40 Best of Family Therapy All Time (XXX Pack)/TOP 40 Best of Family Therapy (2016) XXX Pack
+│           ├── [   3]  sigr162a.sigr161z.170330.16,8G/nedlastinger/TOP 40 Best of Family Therapy All Time (XXX Pack)/TOP 40 Best of Family Therapy (2016) XXX Pack/Family Strokes - Faye Lynne - My Stepsis The Stripper
+│           │   └── [722M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/TOP 40 Best of Family Therapy All Time (XXX Pack)/TOP 40 Best of Family Therapy (2016) XXX Pack/Family Strokes - Faye Lynne - My Stepsis The Stripper/FamilyStrokes - Faye Lynne - My Stepsis The Stripper - 540p (Jul 7, 2016).mp4
+│           ├── [   3]  sigr162a.sigr161z.170330.16,8G/nedlastinger/TOP 40 Best of Family Therapy All Time (XXX Pack)/TOP 40 Best of Family Therapy (2016) XXX Pack/Family Therapy - Farrah Valentine - Little Sister Stories - Little Sister Seduction
+│           │   └── [466M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/TOP 40 Best of Family Therapy All Time (XXX Pack)/TOP 40 Best of Family Therapy (2016) XXX Pack/Family Therapy - Farrah Valentine - Little Sister Stories - Little Sister Seduction/LittleSisterSeductionhd.mp4
+│           ├── [   3]  sigr162a.sigr161z.170330.16,8G/nedlastinger/TOP 40 Best of Family Therapy All Time (XXX Pack)/TOP 40 Best of Family Therapy (2016) XXX Pack/Family Therapy - Kacey Jordan - Quality Time
+│           │   └── [7.2M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/TOP 40 Best of Family Therapy All Time (XXX Pack)/TOP 40 Best of Family Therapy (2016) XXX Pack/Family Therapy - Kacey Jordan - Quality Time/Kaceyqualitytime.mp4
+│           ├── [   3]  sigr162a.sigr161z.170330.16,8G/nedlastinger/TOP 40 Best of Family Therapy All Time (XXX Pack)/TOP 40 Best of Family Therapy (2016) XXX Pack/Family Therapy - Lily Rader and Rikki Rumor (Daddy’s Good Girls) - 720p
+│           │   └── [442M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/TOP 40 Best of Family Therapy All Time (XXX Pack)/TOP 40 Best of Family Therapy (2016) XXX Pack/Family Therapy - Lily Rader and Rikki Rumor (Daddy’s Good Girls) - 720p/Lily Rader and Rikki Rumor – Daddy’s Good Girls.mp4
+│           └── [ 15M]  sigr162a.sigr161z.170330.16,8G/nedlastinger/TOP 40 Best of Family Therapy All Time (XXX Pack)/TOP 40 Best of Family Therapy (2016) XXX Pack/~uTorrentPartFile_67F8BFF21.dat
+├── [   9]  sigr162a.sigr161z.170330.16,8G/Recording
+│   ├── [ 12M]  sigr162a.sigr161z.170330.16,8G/Recording/161007 v1.2 telefonsvarer de Israelske svindlerne.mp3
+│   ├── [ 36K]  sigr162a.sigr161z.170330.16,8G/Recording/record20160929140616.3gpp
+│   ├── [132K]  sigr162a.sigr161z.170330.16,8G/Recording/record20160929143846.3gpp
+│   ├── [120K]  sigr162a.sigr161z.170330.16,8G/Recording/record20161020003058.3gpp
+│   ├── [1.9M]  sigr162a.sigr161z.170330.16,8G/Recording/record20161026103909.3gpp
+│   ├── [ 50M]  sigr162a.sigr161z.170330.16,8G/Recording/record20161116095450.3gpp
+│   └── [1.7M]  sigr162a.sigr161z.170330.16,8G/Recording/record20161130130720.3gpp
+├── [   5]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder
+│   ├── [624M]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/2017_01_30_21_55_55.mp4
+│   ├── [  18]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb
+│   │   ├── [183K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/10153611581485040245.dthumb
+│   │   ├── [260K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/-10225531941484957462.dthumb
+│   │   ├── [163K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/-14138902391484454019.dthumb
+│   │   ├── [354K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/16349693091484098463.dthumb
+│   │   ├── [299K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/18746807691484452304.dthumb
+│   │   ├── [ 42K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/18805453721485253756.dthumb.tmp
+│   │   ├── [139K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/19792522911484163205.dthumb
+│   │   ├── [546K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/4841739551484311070.dthumb
+│   │   ├── [215K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/5130637021484453591.dthumb
+│   │   ├── [439K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/-5316308831485811866.dthumb
+│   │   ├── [248K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/-6105239231485067094.dthumb
+│   │   ├── [128K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/-6189708921485253812.dthumb
+│   │   ├── [439K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/7090018671485040647.dthumb
+│   │   ├── [280K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/727575911484567992.dthumb
+│   │   ├── [263K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/-8071320591484453132.dthumb
+│   │   └── [430K]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.dthumb/-9253845391485256930.dthumb
+│   └── [   3]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.tmp
+│       └── [   0]  sigr162a.sigr161z.170330.16,8G/ScreenRecorder/.tmp/.nomedia
+├── [   4]  sigr162a.sigr161z.170330.16,8G/SMStoText
+│   ├── [ 20K]  sigr162a.sigr161z.170330.16,8G/SMStoText/sms_20170204.csv
+│   └── [ 21K]  sigr162a.sigr161z.170330.16,8G/SMStoText/sms_20170221.csv
+├── [   3]  sigr162a.sigr161z.170330.16,8G/Snapchat
+│   └── [8.7M]  sigr162a.sigr161z.170330.16,8G/Snapchat/Snapchat-458365686.mp4
+└── [   7]  sigr162a.sigr161z.170330.16,8G/tilbox
+    ├── [  68]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing
+    │   ├── [ 90K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/accidental-downblouse-nipple-slip-nudity.jpg
+    │   ├── [ 60K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/accidental-nudity-downblouse-nip-slip.jpg
+    │   ├── [107K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/accidental-nudity-high-school-cheerleaders-oops.jpg
+    │   ├── [ 90K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/accidental-nudity.jpg
+    │   ├── [127K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/accidental-nudity-nipple-slip.jpg
+    │   ├── [ 91K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/accidental-nudity-pussy-slip.jpg
+    │   ├── [ 49K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/amateur-girls-flashing-boobs.jpg
+    │   ├── [ 61K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/beach-spring-break-girls-naked.jpg
+    │   ├── [ 64K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/bikini-spring-break-girls-nude.jpg
+    │   ├── [104K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/black-spring-break-girls-naked.jpg
+    │   ├── [ 54K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/busty-high-school-girls-flashing.jpg
+    │   ├── [ 72K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/candid-girls-flashing-in-school.jpg
+    │   ├── [ 79K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/candid-high-school-girls-beach.jpg
+    │   ├── [113K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/candid-high-school-teen-girls.jpg
+    │   ├── [ 62K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/candid-teen-girls-flashing.jpg
+    │   ├── [ 85K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/candid-voyeur-accidental-nudity-nipple-slip.jpg
+    │   ├── [ 44K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/cheerleader-accidental-nudity-pussy.jpg
+    │   ├── [ 27K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/college-spring-break-nude.jpg
+    │   ├── [ 63K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/girls-high-schools-cheerleaders-oops.jpg
+    │   ├── [ 73K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/group-nude-college-girls-spring-break.jpg
+    │   ├── [434K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/group-of-teen-girls-flashing-asses.jpg
+    │   ├── [ 45K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/group-teen-girls-flashing(2).jpg
+    │   ├── [ 45K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/group-teen-girls-flashing.jpg
+    │   ├── [ 80K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/group-topless-beach-girls.jpg
+    │   ├── [ 70K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/high-school-cheerleaders-candid.jpg
+    │   ├── [ 59K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/high-school-cheerleaders-gf-revenge.jpg
+    │   ├── [174K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/high-school-cheerleaders-naked.jpg
+    │   ├── [ 55K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/high-school-cheerleaders-no-panties-oops.jpg
+    │   ├── [101K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/high-school-cheerleaders-nude.jpg
+    │   ├── [ 48K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/high-school-cheerleaders-oops-pussy.jpg
+    │   ├── [ 47K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/high-school-cheerleaders-splits.jpg
+    │   ├── [ 81K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/high-school-teen-girls-flashing.jpg
+    │   ├── [121K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/hot-high-school-cheerleaders-gf-revenge.jpg
+    │   ├── [ 52K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/hot-high-school-cheerleaders-nude.jpg
+    │   ├── [ 78K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/naked-spring-break-nude.jpg
+    │   ├── [ 95K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/non-nude-high-school-cheerleaders.jpg
+    │   ├── [ 61K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/nude-college-girls-spring-break-party.jpg
+    │   ├── [ 80K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/nude-girls-group-flashing-tits.jpg
+    │   ├── [ 49K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/nude-group-girls-flashing.jpg
+    │   ├── [ 79K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/nude-high-school-cheerleaders-naked.jpg
+    │   ├── [ 62K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/nude-spring-break-girls-flashing.jpg
+    │   ├── [ 75K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/nude-spring-break-girls-naked.jpg
+    │   ├── [ 77K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/oops-accidental-nudity-at-beach.jpg
+    │   ├── [ 78K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/oops-accidental-nudity-candid-upskirt.jpg
+    │   ├── [115K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/oops-accidental-nudity-downblouse.jpg
+    │   ├── [ 42K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/real-teen-girls-flashing.jpg
+    │   ├── [ 54K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/school-girls-flashing-boobs-in-a-car.jpg
+    │   ├── [ 64K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/sleeping-accidental-nudity-downblouse-nip-slip.jpg
+    │   ├── [ 73K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/spring-break-girls-flashing-tits.jpg
+    │   ├── [ 50K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/spring-break-girls-nude.jpg
+    │   ├── [ 65K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/spring-break-girls-tits.jpg
+    │   ├── [ 72K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/spring-break-nude-beaches.jpg
+    │   ├── [ 77K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/spring-break-nude-beach-girls-groups.jpg
+    │   ├── [ 66K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/spring-break-nude-beach-girls-topless.jpg
+    │   ├── [ 66K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/spring-break-nude-girls-dancing.jpg
+    │   ├── [ 51K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/spring-break-party-girls-naked.jpg
+    │   ├── [ 72K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/teen-girls-boobs-flashing-in-school.jpg
+    │   ├── [ 62K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/teen-girls-flashing-boobs.jpg
+    │   ├── [109K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/teen-girls-flashing-their-boobs.jpg
+    │   ├── [102K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/topless-beach-group-nude-image.jpg
+    │   ├── [ 75K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/topless-group-spring-break-nude-beach.jpg
+    │   ├── [ 93K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/two teen girls flashing in mirror showing tits in panties 829.jpg
+    │   ├── [128K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/upskirt-accidental-nudity-pussy.jpg
+    │   ├── [ 42K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/water-park-oops-accidental-nudity-sports.jpg
+    │   ├── [ 26K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/young-teen-girls-flashing-camping.jpg
+    │   └── [134K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 geografi-2016-160924 girls flashing/young-teen-girls-flashing.jpg
+    ├── [   3]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 tmp
+    │   └── [902K]  sigr162a.sigr161z.170330.16,8G/tilbox/160924 tmp/TrueCrypt User Guide.pdf
+    ├── [  20]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap
+    │   ├── [4.3M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/7340011403708 Coop Partybrus 1,5l 1.jpg
+    │   ├── [3.6M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/7340011403708 Coop Partybrus 1,5l 2.jpg
+    │   ├── [4.1M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_171630.jpg
+    │   ├── [3.5M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_171645.jpg
+    │   ├── [4.7M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_171704.jpg
+    │   ├── [4.3M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_171714.jpg
+    │   ├── [5.2M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_171727.jpg
+    │   ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_171744.jpg
+    │   ├── [4.0M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_171827.jpg
+    │   ├── [3.6M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_171854.jpg
+    │   ├── [3.4M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_171928.jpg
+    │   ├── [5.0M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_171942.jpg
+    │   ├── [4.7M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_171944.jpg
+    │   ├── [3.3M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_171952.jpg
+    │   ├── [3.2M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_171953.jpg
+    │   ├── [3.6M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_172014.jpg
+    │   ├── [3.7M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_172051.jpg
+    │   └── [3.9M]  sigr162a.sigr161z.170330.16,8G/tilbox/161116 regnskap/IMG_20161116_172108.jpg
+    ├── [   8]  sigr162a.sigr161z.170330.16,8G/tilbox/161223 nå-2016-trading-12-etoro statistikk rådata
+    │   ├── [ 71K]  sigr162a.sigr161z.170330.16,8G/tilbox/161223 nå-2016-trading-12-etoro statistikk rådata/Screenshot_20161226-020641.png
+    │   ├── [210K]  sigr162a.sigr161z.170330.16,8G/tilbox/161223 nå-2016-trading-12-etoro statistikk rådata/Screenshot_20161226-020645.png
+    │   ├── [161K]  sigr162a.sigr161z.170330.16,8G/tilbox/161223 nå-2016-trading-12-etoro statistikk rådata/Screenshot_20161226-020653.png
+    │   ├── [221K]  sigr162a.sigr161z.170330.16,8G/tilbox/161223 nå-2016-trading-12-etoro statistikk rådata/Screenshot_20161226-020657.png
+    │   ├── [220K]  sigr162a.sigr161z.170330.16,8G/tilbox/161223 nå-2016-trading-12-etoro statistikk rådata/Screenshot_20161226-020701.png
+    │   └── [219K]  sigr162a.sigr161z.170330.16,8G/tilbox/161223 nå-2016-trading-12-etoro statistikk rådata/Screenshot_20161226-020704.png
+    └── [   3]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017
+        └── [  19]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com
+            ├── [271M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_11_02_24_42.mp4
+            ├── [473M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_11_20_22_39.mp4
+            ├── [280M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_13_13_31_35.mp4
+            ├── [228M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_15_04_47_27.mp4
+            ├── [585M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_15_04_54_49.mp4
+            ├── [218M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_15_05_08_42.mp4
+            ├── [150M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_15_05_13_47.mp4
+            ├── [304M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_16_12_49_56.mp4
+            ├── [439M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_21_00_49_50.mp4
+            ├── [ 68M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_22_07_27_49.mp4
+            ├── [181M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_22_07_31_05.mp4
+            ├── [ 76M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_24_11_23_41.mp4
+            ├── [ 33M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_24_11_28_27.mp4
+            ├── [ 19M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_24_11_29_42.mp4
+            ├── [145M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_28_02_10_36.mp4
+            ├── [ 16M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_01_30_21_54_40.mp4
+            └── [234M]  sigr162a.sigr161z.170330.16,8G/tilbox/170128 arkiv-geografi-2017/01-myfreecams.com/2017_02_01_11_39_49.mp4
+
+38 directories, 1059 files
