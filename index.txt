@@ -7,7 +7,6 @@ NESTE HANDLING
 
 
 NESTE HANDLING box TIL sigr161z
-/lokalt/sigr161lap/
 /lokalt/sigr162a/
 /lokalt/sigr153lap9/
 
@@ -82,5 +81,5 @@ sigr161z 2 fysiske harddisker i stasjonær maskin med ZFS, koblet til sigr170f p
 - en dedikert ekstern harddisk på 2TB, montert sammen med en raw 32GB virtuell disk /dev/sda1 som root i et felles btrfs filsystem
 
 
-Oppdatert: 170329
+Oppdatert: 170330
 Opprettet: 170309
