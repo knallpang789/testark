@@ -59,14 +59,14 @@ NESTE HANDLING dropbox TIL sigr161z
   "#Bootstrap": [
     "sigr170f: /ip4/10.215.10.17/tcp/4001/ipfs/QmZMkgtAPiJLNaPUtUXJJDxmdY8JiymsvjeuD8PeFVP34D",
     "sigr170f: /ip4/192.168.17.70/tcp/4017/ipfs/QmZMkgtAPiJLNaPUtUXJJDxmdY8JiymsvjeuD8PeFVP34D",
-    "sigr170h: /ip4/10.215.10.16/tcp/4001/ipfs/QmYVqZ4ugbvvJ8AinbYaAEYzkMbdQqkDs3KpD1yHGLVFjK",
-    "sigr170h: /ip4/192.168.17.70/tcp/4016/ipfs/QmYVqZ4ugbvvJ8AinbYaAEYzkMbdQqkDs3KpD1yHGLVFjK"
+    "sigr170h: /ip4/10.215.10.16/tcp/4001/ipfs/QmbEixjPtZB524ATAZYHsFK9FGMEpvRo1fQMM8XNxkYb4f",
+    "sigr170h: /ip4/192.168.17.70/tcp/4016/ipfs/QmbEixjPtZB524ATAZYHsFK9FGMEpvRo1fQMM8XNxkYb4f"
   ],
   "Bootstrap": [
     "/ip4/10.215.10.17/tcp/4001/ipfs/QmZMkgtAPiJLNaPUtUXJJDxmdY8JiymsvjeuD8PeFVP34D",
     "/ip4/192.168.17.70/tcp/4017/ipfs/QmZMkgtAPiJLNaPUtUXJJDxmdY8JiymsvjeuD8PeFVP34D",
-    "/ip4/10.215.10.16/tcp/4001/ipfs/QmYVqZ4ugbvvJ8AinbYaAEYzkMbdQqkDs3KpD1yHGLVFjK",
-    "/ip4/192.168.17.70/tcp/4016/ipfs/QmYVqZ4ugbvvJ8AinbYaAEYzkMbdQqkDs3KpD1yHGLVFjK"
+    "/ip4/10.215.10.16/tcp/4001/ipfs/QmbEixjPtZB524ATAZYHsFK9FGMEpvRo1fQMM8XNxkYb4f",
+    "/ip4/192.168.17.70/tcp/4016/ipfs/QmbEixjPtZB524ATAZYHsFK9FGMEpvRo1fQMM8XNxkYb4f"
   ],
 
 
